@@ -40,6 +40,7 @@ const CalendarScreen: React.FC = () => {
   const [loading, setLoading] = useState(false);
   const [lastUpdate, setLastUpdate] = useState<string | null>(null);
   const [fromCache, setFromCache] = useState<boolean>(false);
+  const [calendarTitle, setCalendarTitle] = useState("Calendário");
 
   // carregar JSON remoto
   useEffect(() => {
@@ -50,6 +51,7 @@ const CalendarScreen: React.FC = () => {
 
       if (result) {
         setHolidays(result.data);
+        setCalendarTitle(result.title || "Calendário");
         setLastUpdate(result.lastUpdate);
         setFromCache(result.fromCache);
       }
@@ -108,7 +110,7 @@ const CalendarScreen: React.FC = () => {
   return (
     <SafeAreaView style={styles.container}>
       <BackButton />
-      <Text style={styles.title}>Calendário 2026.1</Text>
+      <Text style={styles.title}>{calendarTitle}</Text>
       <View style={styles.separator} />
       <Text style={styles.lastUpdate}>
         Última atualização:{" "}

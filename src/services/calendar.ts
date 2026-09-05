@@ -2,7 +2,7 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import { Platform, ToastAndroid } from "react-native";
 
 const CALENDAR_URL =
-  "https://raw.githubusercontent.com/CaioSousa32/campus-connect-data/main/calendar.json";
+  "https://raw.githubusercontent.com/CaioSousa32/campus-connect-data/main/calendario.json";
 
 const STORAGE_KEY = "@calendar_data";
 const STORAGE_DATE_KEY = "@calendar_last_update";
@@ -36,18 +36,20 @@ export const fetchCalendar = async () => {
     if (cachedDate && cachedDate === remoteData.lastUpdate) {
       console.log("✅ Nenhuma atualização — lastUpdate igual ao cache");
       return {
-        data: parsedCache,
+        title: parsedCache?.title,
+        data: parsedCache?.events || [],
         lastUpdate: cachedDate,
         fromCache: true,
       };
     }
 
-    await AsyncStorage.setItem(STORAGE_KEY, JSON.stringify(remoteData.events));
+    await AsyncStorage.setItem(STORAGE_KEY, JSON.stringify(remoteData));
     await AsyncStorage.setItem(STORAGE_DATE_KEY, remoteData.lastUpdate);
 
 
     console.log("📥 Atualização encontrada e salva");
     return {
+      title: remoteData.title,
       data: remoteData.events,
       lastUpdate: remoteData.lastUpdate,
       fromCache: false,
@@ -63,8 +65,11 @@ export const fetchCalendar = async () => {
 
     if (cachedData) {
       console.log("📦 Sem internet — usando cache salvo");
+      const parsedCache = JSON.parse(cachedData);
+
       return {
-        data: JSON.parse(cachedData),
+        title: parsedCache?.title,
+        data: parsedCache?.events || [],
         lastUpdate: cachedDate || null,
         fromCache: true,
       };
