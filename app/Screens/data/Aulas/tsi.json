@@ -1,178 +1,697 @@
 {
   "1°": {
     "seg": [
-      { "time": "3m", "subject": "Programação Imperativa", "teacher": "Prof. Allan D. S. Lima" },
-      { "time": "4m", "subject": "Programação Imperativa", "teacher": "Prof. Allan D. S. Lima" },
-      { "time": "5m", "subject": "Programação Imperativa", "teacher": "Prof. Allan D. S. Lima" },
-      { "time": "6m", "subject": "Programação Imperativa", "teacher": "Prof. Allan D. S. Lima" }
+      {
+        "time": "1t",
+        "subject": "Fundamentos do Design D.",
+        "teacher": "Prof. Jose R. P. L. Filho"
+      },
+      {
+        "time": "2t",
+        "subject": "Fundamentos do Design D.",
+        "teacher": "Prof. Jose R. P. L. Filho"
+      },
+      {
+        "time": "3t",
+        "subject": "Fundamentos do Design D.",
+        "teacher": "Prof. Jose R. P. L. Filho"
+      },
+      {
+        "time": "4t",
+        "subject": "Programação Imperativa",
+        "teacher": "Prof. Allan D. S. Lima"
+      },
+      {
+        "time": "5t",
+        "subject": "Programação Imperativa",
+        "teacher": "Prof. Allan D. S. Lima"
+      }
     ],
     "ter": [
-      { "time": "1m", "subject": "Introdução a Administração", "teacher": "Prof. Simonelle W. Nascimento" },
-      { "time": "2m", "subject": "Introdução a Administração", "teacher": "Prof. Simonelle W. Nascimento" },
-      { "time": "3m", "subject": "Introdução a Administração", "teacher": "Prof. Simonelle W. Nascimento" },
-      { "time": "4m", "subject": "Ética, Cidadania e S.", "teacher": "Prof. Ana C. Marinho R. Lemos" },
-      { "time": "5m", "subject": "Ética, Cidadania e S.", "teacher": "Prof. Ana C. Marinho R. Lemos" },
-      { "time": "6m", "subject": "Ética, Cidadania e S.", "teacher": "Prof. Ana C. Marinho R. Lemos" }
+      {
+        "time": "1t",
+        "subject": "Ética, Cidadania e S.",
+        "teacher": "Prof. Ana C. M. R. Lemos"
+      },
+      {
+        "time": "2t",
+        "subject": "Ética, Cidadania e S.",
+        "teacher": "Prof. Ana C. M. R. Lemos"
+      },
+      {
+        "time": "3t",
+        "subject": "Ética, Cidadania e S.",
+        "teacher": "Prof. Ana C. M. R. Lemos"
+      },
+      {
+        "time": "4t",
+        "subject": "Introdução à Administração",
+        "teacher": "Prof. Simonelle W. Nascimento"
+      },
+      {
+        "time": "5t",
+        "subject": "Introdução à Administração",
+        "teacher": "Prof. Simonelle W. Nascimento"
+      },
+      {
+        "time": "6t",
+        "subject": "Introdução à Administração",
+        "teacher": "Prof. Simonelle W. Nascimento"
+      }
     ],
     "qua": [
-      { "time": "1m", "subject": "Fundamentos do Design D.", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "2m", "subject": "Fundamentos do Design D.", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "3m", "subject": "Fundamentos do Design D.", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "4m", "subject": "Inglês I", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "5m", "subject": "Inglês I", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "6m", "subject": "Inglês I", "teacher": "Prof. Ivo F. G. Sá" } 
+      {
+        "time": "1t",
+        "subject": "Cálculo para Computação",
+        "teacher": "Prof. Cícero R. S. Júnior"
+      },
+      {
+        "time": "2t",
+        "subject": "Cálculo para Computação",
+        "teacher": "Prof. Cícero R. S. Júnior"
+      },
+      {
+        "time": "3t",
+        "subject": "Cálculo para Computação",
+        "teacher": "Prof. Cícero R. S. Júnior"
+      },
+      {
+        "time": "4t",
+        "subject": "Fundamentos de C. para I.",
+        "teacher": "Prof. Herbert G. Mendes"
+      },
+      {
+        "time": "5t",
+        "subject": "Fundamentos de C. para I.",
+        "teacher": "Prof. Herbert G. Mendes"
+      }
     ],
     "qui": [
-      { "time": "2m", "subject": "Fundamentos de C. para I.", "teacher": "Prof. Liliane A. N. Sales" },
-      { "time": "3m", "subject": "Fundamentos de C. para I.", "teacher": "Prof. Liliane A. N. Sales" },
-      { "time": "4m", "subject": "Redes de Computadores", "teacher": "Prof. Gustavo N. Martins" },
-      { "time": "5m", "subject": "Redes de Computadores", "teacher": "Prof. Gustavo N. Martins" },
-      { "time": "6m", "subject": "Redes de Computadores", "teacher": "Prof. Gustavo N. Martins" }
+      {
+        "time": "1t",
+        "subject": "Programação Imperativa",
+        "teacher": "Prof. Allan D. S. Lima"
+      },
+      {
+        "time": "2t",
+        "subject": "Programação Imperativa",
+        "teacher": "Prof. Allan D. S. Lima"
+      },
+      {
+        "time": "3t",
+        "subject": "Redes de Computadores",
+        "teacher": "Prof. Gustavo N. Martins"
+      },
+      {
+        "time": "4t",
+        "subject": "Redes de Computadores",
+        "teacher": "Prof. Gustavo N. Martins"
+      },
+      {
+        "time": "5t",
+        "subject": "Redes de Computadores",
+        "teacher": "Prof. Gustavo N. Martins"
+      }
     ],
     "sex": [
-      { "time": "1m", "subject": "Cálculo para Computação", "teacher": "Prof. Cícero R. S. Júnior" },
-      { "time": "2m", "subject": "Cálculo para Computação", "teacher": "Prof. Cícero R. S. Júnior" },
-      { "time": "3m", "subject": "Cálculo para Computação", "teacher": "Prof. Cícero R. S. Júnior" },
-      { "time": "4m", "subject": "Redes de Computadores", "teacher": "Prof. Gustavo N. Martins" },
-      { "time": "5m", "subject": "Redes de Computadores", "teacher": "Prof. Gustavo N. Martins" },
-      { "time": "6m", "subject": "Redes de Computadores", "teacher": "Prof. Gustavo N. Martins" } 
+      {
+        "time": "1t",
+        "subject": "Redes de Computadores",
+        "teacher": "Prof. Gustavo N. Martins"
+      },
+      {
+        "time": "2t",
+        "subject": "Redes de Computadores",
+        "teacher": "Prof. Gustavo N. Martins"
+      },
+      {
+        "time": "3t",
+        "subject": "Redes de Computadores",
+        "teacher": "Prof. Gustavo N. Martins"
+      },
+      {
+        "time": "4t",
+        "subject": "Inglês I",
+        "teacher": "Prof. Ivo F. G. Sá"
+      },
+      {
+        "time": "5t",
+        "subject": "Inglês I",
+        "teacher": "Prof. Ivo F. G. Sá"
+      },
+      {
+        "time": "6t",
+        "subject": "Inglês I",
+        "teacher": "Prof. Ivo F. G. Sá"
+      }
     ]
   },
   "2°": {
     "seg": [
-      { "time": "1t", "subject": "Banco de Dados", "teacher": "Prof. Milton S. S. Junior" },
-      { "time": "2t", "subject": "Banco de Dados", "teacher": "Prof. Milton S. S. Junior" },
-      { "time": "3t", "subject": "Estatística e Probabilidade", "teacher": "Prof. Cícero R. S. Júnior" },
-      { "time": "4t", "subject": "Estatística e Probabilidade", "teacher": "Prof. Cícero R. S. Júnior" },
-      { "time": "5t", "subject": "Estatística e Probabilidade", "teacher": "Prof. Cícero R. S. Júnior" }
+      {
+        "time": "1m",
+        "subject": "Design de Interação",
+        "teacher": "Prof. Renata V. M. P. Santana"
+      },
+      {
+        "time": "2m",
+        "subject": "Design de Interação",
+        "teacher": "Prof. Renata V. M. P. Santana"
+      },
+      {
+        "time": "3m",
+        "subject": "Banco de Dados",
+        "teacher": "Prof. Milton S. S. Junior"
+      },
+      {
+        "time": "4m",
+        "subject": "Banco de Dados",
+        "teacher": "Prof. Milton S. S. Junior"
+      },
+      {
+        "time": "5m",
+        "subject": "Banco de Dados",
+        "teacher": "Prof. Milton S. S. Junior"
+      },
+      {
+        "time": "6m",
+        "subject": "Banco de Dados",
+        "teacher": "Prof. Milton S. S. Junior"
+      }
     ],
     "ter": [
-      { "time": "1t", "subject": "Banco de Dados", "teacher": "Prof. Milton S. S. Junior" },
-      { "time": "2t", "subject": "Banco de Dados", "teacher": "Prof. Milton S. S. Junior" },
-      { "time": "3t", "subject": "Processos Psicológicos e I. S.", "teacher": "Prof. Willyans G. Coelho" },
-      { "time": "4t", "subject": "Processos Psicológicos e I. S.", "teacher": "Prof. Willyans G. Coelho" },
-      { "time": "5t", "subject": "Processos Psicológicos e I. S.", "teacher": "Prof. Willyans G. Coelho" }
+      {
+        "time": "2m",
+        "subject": "Design de Interação",
+        "teacher": "Prof. Renata V. M. P. Santana"
+      },
+      {
+        "time": "3m",
+        "subject": "Design de Interação",
+        "teacher": "Prof. Renata V. M. P. Santana"
+      },
+      {
+        "time": "4m",
+        "subject": "Processos Psicológicos e I. S.",
+        "teacher": "Prof. Willyans G. Coelho"
+      },
+      {
+        "time": "5m",
+        "subject": "Processos Psicológicos e I. S.",
+        "teacher": "Prof. Willyans G. Coelho"
+      },
+      {
+        "time": "6m",
+        "subject": "Processos Psicológicos e I. S.",
+        "teacher": "Prof. Willyans G. Coelho"
+      }
     ],
     "qua": [
-      { "time": "1t", "subject": "Inglês II", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "2t", "subject": "Inglês II", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "3t", "subject": "Inglês II", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "4t", "subject": "Design de Interface", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "5t", "subject": "Design de Interface", "teacher": "Prof. Renata V. M. Silva" }
+      {
+        "time": "1m",
+        "subject": "Estatística e Probabilidade",
+        "teacher": "Prof. Cícero R. S. Júnior"
+      },
+      {
+        "time": "2m",
+        "subject": "Estatística e Probabilidade",
+        "teacher": "Prof. Cícero R. S. Júnior"
+      },
+      {
+        "time": "3m",
+        "subject": "Estatística e Probabilidade",
+        "teacher": "Prof. Cícero R. S. Júnior"
+      },
+      {
+        "time": "4m",
+        "subject": "Inglês II",
+        "teacher": "Prof. Ivo F. G. Sá"
+      },
+      {
+        "time": "5m",
+        "subject": "Inglês II",
+        "teacher": "Prof. Ivo F. G. Sá"
+      },
+      {
+        "time": "6m",
+        "subject": "Inglês II",
+        "teacher": "Prof. Ivo F. G. Sá"
+      }
     ],
     "qui": [
-      { "time": "1t", "subject": "Projeto de Desenvolvimento I", "teacher": "Prof. Liliane A. N. Sales" },
-      { "time": "2t", "subject": "Projeto de Desenvolvimento I", "teacher": "Prof. Liliane A. N. Sales" },
-      { "time": "3t", "subject": "Interconexão e servicos de R.", "teacher": "Prof. Gustavo N. Martins" },
-      { "time": "4t", "subject": "Interconexão e servicos de R.", "teacher": "Prof. Gustavo N. Martins" },
-      { "time": "5t", "subject": "Interconexão e servicos de R.", "teacher": "Prof. Gustavo N. Martins" },
-      { "time": "6t", "subject": "Interconexão e servicos de R.", "teacher": "Prof. Gustavo N. Martins" }
+      {
+        "time": "3m",
+        "subject": "Interconexão e servicos de R.",
+        "teacher": "Prof. Gustavo N. Martins"
+      },
+      {
+        "time": "4m",
+        "subject": "Interconexão e servicos de R.",
+        "teacher": "Prof. Gustavo N. Martins"
+      },
+      {
+        "time": "5m",
+        "subject": "Interconexão e servicos de R.",
+        "teacher": "Prof. Gustavo N. Martins"
+      },
+      {
+        "time": "6m",
+        "subject": "Interconexão e servicos de R.",
+        "teacher": "Prof. Gustavo N. Martins"
+      }
     ],
     "sex": [
-      { "time": "1t", "subject": "Design de Interface", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "2t", "subject": "Design de Interface", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "3t", "subject": "Desenvolvimento para Web I", "teacher": "Prof. Alexandre S. G. Vianna" },
-      { "time": "4t", "subject": "Desenvolvimento para Web I", "teacher": "Prof. Alexandre S. G. Vianna" },
-      { "time": "5t", "subject": "Desenvolvimento para Web I", "teacher": "Prof. Alexandre S. G. Vianna" },
-      { "time": "6t", "subject": "Desenvolvimento para Web I", "teacher": "Prof. Alexandre S. G. Vianna" }
+      {
+        "time": "1m",
+        "subject": "Desenvolvimento para Web I",
+        "teacher": "Prof. Alexandre S. G. Vianna"
+      },
+      {
+        "time": "2m",
+        "subject": "Desenvolvimento para Web I",
+        "teacher": "Prof. Alexandre S. G. Vianna"
+      },
+      {
+        "time": "3m",
+        "subject": "Desenvolvimento para Web I",
+        "teacher": "Prof. Alexandre S. G. Vianna"
+      },
+      {
+        "time": "4m",
+        "subject": "Desenvolvimento para Web I",
+        "teacher": "Prof. Alexandre S. G. Vianna"
+      },
+      {
+        "time": "5m",
+        "subject": "Projeto de Desenvolvimento I",
+        "teacher": "Prof. Liliane A. N. Sales"
+      },
+      {
+        "time": "6m",
+        "subject": "Projeto de Desenvolvimento I",
+        "teacher": "Prof. Liliane A. N. Sales"
+      }
     ]
   },
   "3°": {
     "seg": [
-      { "time": "1m", "subject": "Programação Orientada a O.", "teacher": "Prof. Milton S. S. Junior" },
-      { "time": "2m", "subject": "Programação Orientada a O.", "teacher": "Prof. Milton S. S. Junior" },
-      { "time": "3m", "subject": "Segurança de Sistemas para I.", "teacher": "Prof. Ramon M. S. Farias" },
-      { "time": "4m", "subject": "Segurança de Sistemas para I.", "teacher": "Prof. Ramon M. S. Farias" },
-      { "time": "5m", "subject": "Segurança de Sistemas para I.", "teacher": "Prof. Ramon M. S. Farias" },
-      { "time": "6m", "subject": "Segurança de Sistemas para I.", "teacher": "Prof. Ramon M. S. Farias" }
+      {
+        "time": "1t",
+        "subject": "Segurança de Sistemas para I.",
+        "teacher": "Prof. Ramon M. S. Farias"
+      },
+      {
+        "time": "2t",
+        "subject": "Segurança de Sistemas para I.",
+        "teacher": "Prof. Ramon M. S. Farias"
+      },
+      {
+        "time": "3t",
+        "subject": "Segurança de Sistemas para I.",
+        "teacher": "Prof. Ramon M. S. Farias"
+      },
+      {
+        "time": "4t",
+        "subject": "Segurança de Sistemas para I.",
+        "teacher": "Prof. Ramon M. S. Farias"
+      }
     ],
     "ter": [
-      { "time": "1m", "subject": "Desenvolvimento para Web II", "teacher": "Prof. Alexandre S. G. Vianna" },
-      { "time": "2m", "subject": "Desenvolvimento para Web II", "teacher": "Prof. Alexandre S. G. Vianna" },
-      { "time": "3m", "subject": "Desenvolvimento para Web II", "teacher": "Prof. Alexandre S. G. Vianna" },
-      { "time": "4m", "subject": "Desenvolvimento para Web II", "teacher": "Prof. Alexandre S. G. Vianna" },
-      { "time": "5m", "subject": "Programação Orientada a O.", "teacher": "Prof. Milton S. S. Junior" },
-      { "time": "6m", "subject": "Programação Orientada a O.", "teacher": "Prof. Milton S. S. Junior" }
-    ],    
+      {
+        "time": "1t",
+        "subject": "Pesquisa e Análize de C.",
+        "teacher": "Prof. Willyans G. Coelho"
+      },
+      {
+        "time": "2t",
+        "subject": "Pesquisa e Análize de C.",
+        "teacher": "Prof. Willyans G. Coelho"
+      },
+      {
+        "time": "3t",
+        "subject": "Pesquisa e Análize de C.",
+        "teacher": "Prof. Willyans G. Coelho"
+      },
+      {
+        "time": "4t",
+        "subject": "Programação Orientada a O.",
+        "teacher": ""
+      },
+      {
+        "time": "5t",
+        "subject": "Programação Orientada a O.",
+        "teacher": ""
+      }
+    ],
     "qua": [
-      { "time": "1m", "subject": "Projeto de Desenvolvimento II", "teacher": "Prof. Emaur F. de Oliveira" },
-      { "time": "2m", "subject": "Projeto de Desenvolvimento II", "teacher": "Prof. Emaur F. de Oliveira" },
-      { "time": "5m", "subject": "Design de Interação", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "6m", "subject": "Design de Interação", "teacher": "Prof. Renata V. M. Silva" }
+      {
+        "time": "1t",
+        "subject": "Inglês III",
+        "teacher": "Prof. Ivo F. G. Sá"
+      },
+      {
+        "time": "2t",
+        "subject": "Inglês III",
+        "teacher": "Prof. Ivo F. G. Sá"
+      },
+      {
+        "time": "3t",
+        "subject": "Inglês III",
+        "teacher": "Prof. Ivo F. G. Sá"
+      },
+      {
+        "time": "5t",
+        "subject": "Projeto de Desenvolvimento II",
+        "teacher": "Prof. Marcone J. Silva"
+      },
+      {
+        "time": "6t",
+        "subject": "Projeto de Desenvolvimento II",
+        "teacher": "Prof. Marcone J. Silva"
+      }
     ],
     "qui": [
-      { "time": "1m", "subject": "Inglês III", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "2m", "subject": "Inglês III", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "3m", "subject": "Inglês III", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "4m", "subject": "Metodologia Científica", "teacher": "Prof. Allan D. S. Lima" },
-      { "time": "5m", "subject": "Metodologia Científica", "teacher": "Prof. Allan D. S. Lima" },
-      { "time": "6m", "subject": "Metodologia Científica", "teacher": "Prof. Allan D. S. Lima" }
+      {
+        "time": "1t",
+        "subject": "Design de Interação",
+        "teacher": "Prof. Renata V. M. P. Santana"
+      },
+      {
+        "time": "2t",
+        "subject": "Design de Interação",
+        "teacher": "Prof. Renata V. M. P. Santana"
+      },
+      {
+        "time": "3t",
+        "subject": "Design de Interação",
+        "teacher": "Prof. Renata V. M. P. Santana"
+      },
+      {
+        "time": "4t",
+        "subject": "Metodologia Científica",
+        "teacher": "Prof. Allan D. S. Lima"
+      },
+      {
+        "time": "5t",
+        "subject": "Metodologia Científica",
+        "teacher": "Prof. Allan D. S. Lima"
+      },
+      {
+        "time": "6t",
+        "subject": "Metodologia Científica",
+        "teacher": "Prof. Allan D. S. Lima"
+      }
     ],
     "sex": [
-      { "time": "2m", "subject": "Design de Interação", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "3m", "subject": "Design de Interação", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "4m", "subject": "Pesquisa e Análize de C.", "teacher": "Prof. Willyans G. Coelho" },
-      { "time": "5m", "subject": "Pesquisa e Análize de C.", "teacher": "Prof. Willyans G. Coelho" },
-      { "time": "6m", "subject": "Pesquisa e Análize de C.", "teacher": "Prof. Willyans G. Coelho" }
+      {
+        "time": "1t",
+        "subject": "Desenvolvimento para Web II",
+        "teacher": "Prof. Alexandre S. G. Vianna"
+      },
+      {
+        "time": "2t",
+        "subject": "Desenvolvimento para Web II",
+        "teacher": "Prof. Alexandre S. G. Vianna"
+      },
+      {
+        "time": "3t",
+        "subject": "Desenvolvimento para Web II",
+        "teacher": "Prof. Alexandre S. G. Vianna"
+      },
+      {
+        "time": "4t",
+        "subject": "Desenvolvimento para Web II",
+        "teacher": "Prof. Alexandre S. G. Vianna"
+      },
+      {
+        "time": "5t",
+        "subject": "Programação Orientada a O.",
+        "teacher": ""
+      },
+      {
+        "time": "6t",
+        "subject": "Programação Orientada a O.",
+        "teacher": ""
+      }
     ]
   },
   "4°": {
     "seg": [
-      { "time": "1t", "subject": "Projeto de Desenvolvimento III", "teacher": "Prof. Marcone José Silva" },
-      { "time": "2t", "subject": "Projeto de Desenvolvimento III", "teacher": "Prof. Marcone José Silva" },
-      { "time": "3t", "subject": "Projeto de Desenvolvimento III", "teacher": "Prof. Marcone José Silva" },
-      { "time": "4t", "subject": "Engenharia de Software", "teacher": "Prof. Prof. Marcone José Silva" },
-      { "time": "5t", "subject": "Engenharia de Software", "teacher": "Prof. Prof. Marcone José Silva" },
-      { "time": "6t", "subject": "Engenharia de Software", "teacher": "Prof. Prof. Marcone José Silva" }
+      {
+        "time": "1m",
+        "subject": "Projeto de Desenvolvimento III",
+        "teacher": "Prof. Marcone J. Silva"
+      },
+      {
+        "time": "2m",
+        "subject": "Projeto de Desenvolvimento III",
+        "teacher": "Prof. Marcone J. Silva"
+      },
+      {
+        "time": "3m",
+        "subject": "Projeto de Desenvolvimento III",
+        "teacher": "Prof. Marcone J. Silva"
+      },
+      {
+        "time": "4m",
+        "subject": "Interação Humano-computador",
+        "teacher": "Prof. Jose R. P. L. Filho"
+      },
+      {
+        "time": "5m",
+        "subject": "Interação Humano-computador",
+        "teacher": "Prof. Jose R. P. L. Filho"
+      },
+      {
+        "time": "6m",
+        "subject": "Interação Humano-computador",
+        "teacher": "Prof. Jose R. P. L. Filho"
+      }
     ],
     "ter": [
-      { "time": "3t", "subject": "Algoritimo e Estrutura de Dados", "teacher": "Prof. Milton S. S. Junior" },
-      { "time": "4t", "subject": "Algoritimo e Estrutura de Dados", "teacher": "Prof. Milton S. S. Junior" },
-      { "time": "5t", "subject": "Algoritimo e Estrutura de Dados", "teacher": "Prof. Milton S. S. Junior" },
-      { "time": "6t", "subject": "Algoritimo e Estrutura de Dados", "teacher": "Prof. Milton S. S. Junior" }
+      {
+        "time": "3m",
+        "subject": "Algoritimo e Estrutura de Dados",
+        "teacher": "Prof. Milton S. S. Junior"
+      },
+      {
+        "time": "4m",
+        "subject": "Algoritimo e Estrutura de Dados",
+        "teacher": "Prof. Milton S. S. Junior"
+      },
+      {
+        "time": "5m",
+        "subject": "Algoritimo e Estrutura de Dados",
+        "teacher": "Prof. Milton S. S. Junior"
+      },
+      {
+        "time": "6m",
+        "subject": "Algoritimo e Estrutura de Dados",
+        "teacher": "Prof. Milton S. S. Junior"
+      }
     ],
     "qua": [
-      { "time": "1t", "subject": "Interação Humano-computador", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "2t", "subject": "Interação Humano-computador", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "3t", "subject": "Interação Humano-computador", "teacher": "Prof. Renata V. M. Silva" },
-      { "time": "4t", "subject": "Gestão de Pessoas", "teacher": "Prof. Yuri C. T. Araújo" },
-      { "time": "5t", "subject": "Gestão de Pessoas", "teacher": "Prof. Yuri C. T. Araújo" },
-      { "time": "6t", "subject": "Gestão de Pessoas", "teacher": "Prof. Yuri C. T. Araújo" }
+      {
+        "time": "1m",
+        "subject": "Gestão de Pessoas",
+        "teacher": "Prof. Yuri C. T. Araújo"
+      },
+      {
+        "time": "2m",
+        "subject": "Gestão de Pessoas",
+        "teacher": "Prof. Yuri C. T. Araújo"
+      },
+      {
+        "time": "3m",
+        "subject": "Gestão de Pessoas",
+        "teacher": "Prof. Yuri C. T. Araújo"
+      },
+      {
+        "time": "4m",
+        "subject": "Engenharia de Software",
+        "teacher": "Prof. Marcone J. Silva"
+      },
+      {
+        "time": "5m",
+        "subject": "Engenharia de Software",
+        "teacher": "Prof. Marcone J. Silva"
+      },
+      {
+        "time": "6m",
+        "subject": "Engenharia de Software",
+        "teacher": "Prof. Marcone J. Silva"
+      }
     ],
     "qui": [
-      { "time": "1t", "subject": "Inglês IV", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "2t", "subject": "Inglês IV", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "3t", "subject": "Sistemas Distribuídos", "teacher": "Prof. Ranieri V. Carvalho" },
-      { "time": "4t", "subject": "Sistemas Distribuídos", "teacher": "Prof. Ranieri V. Carvalho" },
-      { "time": "5t", "subject": "Sistemas Distribuídos", "teacher": "Prof. Ranieri V. Carvalho" },
-      { "time": "6t", "subject": "Sistemas Distribuídos", "teacher": "Prof. Ranieri V. Carvalho" }
-    ]   
-  },
-  "5°": {
-    "seg": [
-      { "time": "4m", "subject": "Empreendedorismo e Inovação", "teacher": "Prof. Luiz H. O. Martins" },
-      { "time": "5m", "subject": "Empreendedorismo e Inovação", "teacher": "Prof. Luiz H. O. Martins" },
-      { "time": "6m", "subject": "Empreendedorismo e Inovação", "teacher": "Prof. Luiz H. O. Martins" },
-      { "time": "3te", "subject": "Inteligência Artificial", "teacher": "Prof. Allan D. S. Lima" }
-    ],
-    "qua": [
-      { "time": "1m", "subject": "Inglês V", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "2m", "subject": "Inglês V", "teacher": "Prof. Ivo F. G. Sá" },
-      { "time": "3m", "subject": "Inglês V", "teacher": "Prof. Ivo F. G. Sá" }
-    ],
-     "qui": [
-     { "time": "1m", "subject": "Projeto de Desenvolvimento IV", "teacher": "Prof. Liliane A. N. Sales" },
-     { "time": "2m", "subject": "Projeto de Desenvolvimento IV", "teacher": "Prof. Liliane A. N. Sales" },
-     { "time": "3m", "subject": "Projeto de Desenvolvimento IV", "teacher": "Prof. Liliane A. N. Sales" },
-     { "time": "4m", "subject": "Teste e Qualidade de Software", "teacher": "Prof. Liliane A. N. Sales" },
-     { "time": "5m", "subject": "Teste e Qualidade de Software", "teacher": "Prof. Liliane A. N. Sales" },
-     { "time": "6m", "subject": "Teste e Qualidade de Software", "teacher": "Prof. Liliane A. N. Sales" }
-     
+      {
+        "time": "1m",
+        "subject": "Sistemas Distribuídos",
+        "teacher": "Prof. Ranieri V. Carvalho"
+      },
+      {
+        "time": "2m",
+        "subject": "Sistemas Distribuídos",
+        "teacher": "Prof. Ranieri V. Carvalho"
+      },
+      {
+        "time": "3m",
+        "subject": "Sistemas Distribuídos",
+        "teacher": "Prof. Ranieri V. Carvalho"
+      },
+      {
+        "time": "4m",
+        "subject": "Sistemas Distribuídos",
+        "teacher": "Prof. Ranieri V. Carvalho"
+      },
+      {
+        "time": "1t",
+        "subject": "Desenv. para Dispositivos Móveis",
+        "teacher": "Prof. Ranieri V. Carvalho"
+      },
+      {
+        "time": "2t",
+        "subject": "Desenv. para Dispositivos Móveis",
+        "teacher": "Prof. Ranieri V. Carvalho"
+      },
+      {
+        "time": "3t",
+        "subject": "Desenv. para Dispositivos Móveis",
+        "teacher": "Prof. Ranieri V. Carvalho"
+      },
+      {
+        "time": "4t",
+        "subject": "Desenv. para Dispositivos Móveis",
+        "teacher": "Prof. Ranieri V. Carvalho"
+      }
     ],
     "sex": [
-      { "time": "1m", "subject": "Projeto de Desenvolvimento IV", "teacher": "Prof. Liliane A. N. Sales" }
+      {
+        "time": "5m",
+        "subject": "Inglês IV",
+        "teacher": "Prof. Ivo F. G. Sá"
+      },
+      {
+        "time": "6m",
+        "subject": "Inglês IV",
+        "teacher": "Prof. Ivo F. G. Sá"
+      }
+    ]
+  },
+  "5°": {
+    "ter": [
+      {
+        "time": "1t",
+        "subject": "Teste e Qualidade de Software",
+        "teacher": "Prof. Liliane A. N. Sales"
+      },
+      {
+        "time": "2t",
+        "subject": "Teste e Qualidade de Software",
+        "teacher": "Prof. Liliane A. N. Sales"
+      },
+      {
+        "time": "3t",
+        "subject": "Teste e Qualidade de Software",
+        "teacher": "Prof. Liliane A. N. Sales"
+      },
+      {
+        "time": "4t",
+        "subject": "Projeto de Desenvolvimento IV",
+        "teacher": "Prof. Liliane A. N. Sales"
+      },
+      {
+        "time": "5t",
+        "subject": "Projeto de Desenvolvimento IV",
+        "teacher": "Prof. Liliane A. N. Sales"
+      },
+      {
+        "time": "6t",
+        "subject": "Projeto de Desenvolvimento IV",
+        "teacher": "Prof. Liliane A. N. Sales"
+      }
+    ],
+    "qua": [
+      {
+        "time": "4t",
+        "subject": "Inglês V",
+        "teacher": "Prof. Ivo F. G. Sá"
+      },
+      {
+        "time": "5t",
+        "subject": "Inglês V",
+        "teacher": "Prof. Ivo F. G. Sá"
+      },
+      {
+        "time": "6t",
+        "subject": "Inglês V",
+        "teacher": "Prof. Ivo F. G. Sá"
+      }
+    ],
+    "sex": [
+      {
+        "time": "3m",
+        "subject": "Adm. Avançada de Sis. Operacionais",
+        "teacher": ""
+      },
+      {
+        "time": "4m",
+        "subject": "Adm. Avançada de Sis. Operacionais",
+        "teacher": ""
+      },
+      {
+        "time": "5m",
+        "subject": "Adm. Avançada de Sis. Operacionais",
+        "teacher": ""
+      },
+      {
+        "time": "6m",
+        "subject": "Adm. Avançada de Sis. Operacionais",
+        "teacher": ""
+      },
+      {
+        "time": "1t",
+        "subject": "Empreendedorismo e Inovação",
+        "teacher": "Prof. Luiz H. O. Martins"
+      },
+      {
+        "time": "2t",
+        "subject": "Empreendedorismo e Inovação",
+        "teacher": "Prof. Luiz H. O. Martins"
+      },
+      {
+        "time": "3t",
+        "subject": "Empreendedorismo e Inovação",
+        "teacher": "Prof. Luiz H. O. Martins"
+      },
+      {
+        "time": "4t",
+        "subject": "Projeto de Desenvolvimento IV",
+        "teacher": "Prof. Liliane A. N. Sales"
+      }
     ]
   },
   "6°": {
+    "seg": [
+      {
+        "time": "3m",
+        "subject": "Recuperação de Informação",
+        "teacher": "Prof. Allan D. S. Lima"
+      },
+      {
+        "time": "4m",
+        "subject": "Recuperação de Informação",
+        "teacher": "Prof. Allan D. S. Lima"
+      },
+      {
+        "time": "5m",
+        "subject": "Recuperação de Informação",
+        "teacher": "Prof. Allan D. S. Lima"
+      },
+      {
+        "time": "6m",
+        "subject": "Recuperação de Informação",
+        "teacher": "Prof. Allan D. S. Lima"
+      }
+    ]
   }
 }
