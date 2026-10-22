@@ -1,160 +1,566 @@
 {
   "1°": {
     "seg": [
-      { "time": "1m", "subject": "Introdução a Gestão da Qualidade", "teacher": "Prof. Jessyca S. F. Aires" },
-      { "time": "2m", "subject": "Introdução a Gestão da Qualidade", "teacher": "Prof. Jessyca S. F. Aires" },
-      { "time": "3m", "subject": "Introdução a Gestão da Qualidade", "teacher": "Prof. Jessyca S. F. Aires" },
-      { "time": "4m", "subject": "Lingua Portuguesa Aplicada", "teacher": "Prof. Érica C. da S. Costa" },
-      { "time": "5m", "subject": "Lingua Portuguesa Aplicada", "teacher": "Prof. Érica C. da S. Costa" },
-      { "time": "6m", "subject": "Lingua Portuguesa Aplicada", "teacher": "Prof. Érica C. da S. Costa" }
+      {
+        "time": "1t",
+        "subject": "Língua Portuguesa Aplicada",
+        "teacher": "Prof. Érica C. da S. Costa"
+      },
+      {
+        "time": "2t",
+        "subject": "Língua Portuguesa Aplicada",
+        "teacher": "Prof. Érica C. da S. Costa"
+      },
+      {
+        "time": "3t",
+        "subject": "Língua Portuguesa Aplicada",
+        "teacher": "Prof. Érica C. da S. Costa"
+      },
+      {
+        "time": "4t",
+        "subject": "Introdução à Gestão da Qualidade",
+        "teacher": "Prof. Jessyca S. F. Aires"
+      },
+      {
+        "time": "5t",
+        "subject": "Introdução à Gestão da Qualidade",
+        "teacher": "Prof. Jessyca S. F. Aires"
+      },
+      {
+        "time": "6t",
+        "subject": "Introdução à Gestão da Qualidade",
+        "teacher": "Prof. Jessyca S. F. Aires"
+      }
     ],
     "ter": [
-      { "time": "1m", "subject": "Fundamentos da Economia", "teacher": "Prof. Josefa R. Q. da C. Gomes" },
-      { "time": "2m", "subject": "Fundamentos da Economia", "teacher": "Prof. Josefa R. Q. da C. Gomes" },
-      { "time": "3m", "subject": "Fundamentos da Economia", "teacher": "Prof. Josefa R. Q. da C. Gomes" }
+      {
+        "time": "1t",
+        "subject": "Fundamentos da Administração",
+        "teacher": "Prof. Josefa R. Q. da C. Gomes"
+      },
+      {
+        "time": "2t",
+        "subject": "Fundamentos da Administração",
+        "teacher": "Prof. Josefa R. Q. da C. Gomes"
+      },
+      {
+        "time": "3t",
+        "subject": "Fundamentos da Administração",
+        "teacher": "Prof. Josefa R. Q. da C. Gomes"
+      },
+      {
+        "time": "4t",
+        "subject": "Ética, Cidadania e Sustentabilidade",
+        "teacher": "Prof. Willyans G. Coelho"
+      }
     ],
     "qua": [
-      { "time": "1m", "subject": "Informática", "teacher": "Prof. Hebert G. Mendes" },
-      { "time": "2m", "subject": "Informática", "teacher": "Prof. Hebert G. Mendes" },
-      { "time": "3m", "subject": "Informática", "teacher": "Prof. Hebert G. Mendes" },
-      { "time": "4m", "subject": "Matemática Aplicada", "teacher": "Prof. Hugo L. C. Dantas" },
-      { "time": "5m", "subject": "Matemática Aplicada", "teacher": "Prof. Hugo L. C. Dantas" },
-      { "time": "6m", "subject": "Matemática Aplicada", "teacher": "Prof. Hugo L. C. Dantas" }
+      {
+        "time": "1t",
+        "subject": "Informática",
+        "teacher": "Prof. Hebert G. Mendes"
+      },
+      {
+        "time": "2t",
+        "subject": "Informática",
+        "teacher": "Prof. Hebert G. Mendes"
+      },
+      {
+        "time": "3t",
+        "subject": "Informática",
+        "teacher": "Prof. Hebert G. Mendes"
+      },
+      {
+        "time": "4t",
+        "subject": "Matemática Aplicada",
+        "teacher": "Prof. Hugo L. Dantas"
+      },
+      {
+        "time": "5t",
+        "subject": "Matemática Aplicada",
+        "teacher": "Prof. Hugo L. Dantas"
+      },
+      {
+        "time": "6t",
+        "subject": "Matemática Aplicada",
+        "teacher": "Prof. Hugo L. Dantas"
+      }
     ],
+    "qui": [],
     "sex": [
-      { "time": "2m", "subject": "Ética Cidadania e S.", "teacher": "Prof. Willyans G. Coelho" },
-      { "time": "3m", "subject": "Ética Cidadania e S.", "teacher": "Prof. Willyans G. Coelho" },
-      { "time": "4m", "subject": "Fundamentos da Administração", "teacher": "Prof. Josefa R. Q. da C. Gomes" },
-      { "time": "5m", "subject": "Fundamentos da Administração", "teacher": "Prof. Josefa R. Q. da C. Gomes" },
-      { "time": "6m", "subject": "Fundamentos da Administração", "teacher": "Prof. Josefa R. Q. da C. Gomes" }
+      {
+        "time": "1t",
+        "subject": "Fundamentos da Economia",
+        "teacher": "Prof. Evemilia Sousa"
+      },
+      {
+        "time": "2t",
+        "subject": "Fundamentos da Economia",
+        "teacher": "Prof. Evemilia Sousa"
+      },
+      {
+        "time": "3t",
+        "subject": "Fundamentos da Economia",
+        "teacher": "Prof. Evemilia Sousa"
+      }
     ]
   },
   "2°": {
     "seg": [
-      { "time": "1t", "subject": "Ferramentas da Qualidade", "teacher": "Prof. Luiz H. de O. Martins" },
-      { "time": "2t", "subject": "Ferramentas da Qualidade", "teacher": "Prof. Luiz H. de O. Martins" },
-      { "time": "3t", "subject": "Ferramentas da Qualidade", "teacher": "Prof. Luiz H. de O. Martins" },
-      { "time": "4t", "subject": "Estatística I", "teacher": "Prof. Danniel C. Araujo" },
-      { "time": "5t", "subject": "Estatística I", "teacher": "Prof. Danniel C. Araujo" },
-      { "time": "6t", "subject": "Estatística I", "teacher": "Prof. Danniel C. Araujo" }
+      {
+        "time": "1m",
+        "subject": "Gestão de Materiais e Logística",
+        "teacher": "Prof. Roberta V. A. F. da Silva"
+      },
+      {
+        "time": "2m",
+        "subject": "Gestão de Materiais e Logística",
+        "teacher": "Prof. Roberta V. A. F. da Silva"
+      },
+      {
+        "time": "3m",
+        "subject": "Gestão de Materiais e Logística",
+        "teacher": "Prof. Roberta V. A. F. da Silva"
+      },
+      {
+        "time": "4m",
+        "subject": "Estatística I",
+        "teacher": "Prof. Danniel C. de Araujo"
+      },
+      {
+        "time": "5m",
+        "subject": "Estatística I",
+        "teacher": "Prof. Danniel C. de Araujo"
+      },
+      {
+        "time": "6m",
+        "subject": "Estatística I",
+        "teacher": "Prof. Danniel C. de Araujo"
+      }
     ],
     "ter": [
-      { "time": "1t", "subject": "Gestão Ambiental", "teacher": "Prof. Bruno R. Monteiro" },
-      { "time": "2t", "subject": "Gestão Ambiental", "teacher": "Prof. Bruno R. Monteiro" },
-      { "time": "4t", "subject": "Engenharia Econômica", "teacher": "Prof. Rodrigo L. F. Araújo" },
-      { "time": "5t", "subject": "Engenharia Econômica", "teacher": "Prof. Rodrigo L. F. Araújo" },
-      { "time": "6t", "subject": "Engenharia Econômica", "teacher": "Prof. Rodrigo L. F. Araújo" }
+      {
+        "time": "1m",
+        "subject": "Engenharia Econômica",
+        "teacher": "Prof. Rodrigo L. F. de Araújo"
+      },
+      {
+        "time": "2m",
+        "subject": "Engenharia Econômica",
+        "teacher": "Prof. Rodrigo L. F. de Araújo"
+      },
+      {
+        "time": "3m",
+        "subject": "Engenharia Econômica",
+        "teacher": "Prof. Rodrigo L. F. de Araújo"
+      },
+      {
+        "time": "4m",
+        "subject": "Gestão Ambiental",
+        "teacher": "Prof. Bruno Rios Monteiro"
+      },
+      {
+        "time": "5m",
+        "subject": "Gestão Ambiental",
+        "teacher": "Prof. Bruno Rios Monteiro"
+      }
     ],
-    "qua": [
-      { "time": "1t", "subject": "Gestão de Pessoas", "teacher": "Prof. Yuri C. T. Araújo" },
-      { "time": "2t", "subject": "Gestão de Pessoas", "teacher": "Prof. Yuri C. T. Araújo" },
-      { "time": "3t", "subject": "Gestão de Pessoas", "teacher": "Prof. Yuri C. T. Araújo" }
-    ],
+    "qua": [],
     "qui": [
-      { "time": "1t", "subject": "Gestão de Materiais e L.", "teacher": "Prof. Inêz M. Santos" },
-      { "time": "2t", "subject": "Gestão de Materiais e L.", "teacher": "Prof. Inêz M. Santos" },
-      { "time": "3t", "subject": "Gestão de Materiais e L.", "teacher": "Prof. Inêz M. Santos" },
-      { "time": "4t", "subject": "Projeto Integrador II", "teacher": "Prof. Inêz M. Santos" },
-      { "time": "5t", "subject": "Projeto Integrador II", "teacher": "Prof. Inêz M. Santos" },
-      { "time": "6t", "subject": "Projeto Integrador II", "teacher": "Prof. Inêz M. Santos" }
+      {
+        "time": "1m",
+        "subject": "Gestão de Pessoas",
+        "teacher": "Prof. Yuri C. T. de Araújo"
+      },
+      {
+        "time": "2m",
+        "subject": "Gestão de Pessoas",
+        "teacher": "Prof. Yuri C. T. de Araújo"
+      },
+      {
+        "time": "3m",
+        "subject": "Gestão de Pessoas",
+        "teacher": "Prof. Yuri C. T. de Araújo"
+      },
+      {
+        "time": "4m",
+        "subject": "Ferramentas da Qualidade",
+        "teacher": "Prof. Luiz H. O. Martins"
+      },
+      {
+        "time": "5m",
+        "subject": "Ferramentas da Qualidade",
+        "teacher": "Prof. Luiz H. O. Martins"
+      },
+      {
+        "time": "6m",
+        "subject": "Ferramentas da Qualidade",
+        "teacher": "Prof. Luiz H. O. Martins"
+      }
     ],
     "sex": [
-      { "time": "1t", "subject": "Metodologia Científica", "teacher": "Prof. Andreza S. Cordeiro" },
-      { "time": "2t", "subject": "Metodologia Científica", "teacher": "Prof. Andreza S. Cordeiro" },
-      { "time": "3t", "subject": "Metodologia Científica", "teacher": "Prof. Andreza S. Cordeiro" } 
+      {
+        "time": "1m",
+        "subject": "Metodologia Científica",
+        "teacher": "Prof. Andreza S. Cordeiro"
+      },
+      {
+        "time": "2m",
+        "subject": "Metodologia Científica",
+        "teacher": "Prof. Andreza S. Cordeiro"
+      },
+      {
+        "time": "3m",
+        "subject": "Metodologia Científica",
+        "teacher": "Prof. Andreza S. Cordeiro"
+      },
+      {
+        "time": "4m",
+        "subject": "Projeto Integrador I",
+        "teacher": "Prof. Anderson C. de Oliveira"
+      },
+      {
+        "time": "5m",
+        "subject": "Projeto Integrador I",
+        "teacher": "Prof. Anderson C. de Oliveira"
+      },
+      {
+        "time": "6m",
+        "subject": "Projeto Integrador I",
+        "teacher": "Prof. Anderson C. de Oliveira"
+      }
     ]
   },
   "3°": {
     "seg": [
-      { "time": "1m", "subject": "Gestão do Processo", "teacher": "Prof. José R. D. de Melo" },
-      { "time": "2m", "subject": "Gestão do Processo", "teacher": "Prof. José R. D. de Melo" },
-      { "time": "3m", "subject": "Gestão do Processo", "teacher": "Prof. José R. D. de Melo" }, 
-      { "time": "4m", "subject": "Gestão de Qualidade em Serviços", "teacher": "Prof. José R. D. de Melo" },
-      { "time": "5m", "subject": "Gestão de Qualidade em Serviços", "teacher": "Prof. José R. D. de Melo" },
-      { "time": "6m", "subject": "Gestão de Qualidade em Serviços", "teacher": "Prof. José R. D. de Melo" }
+      {
+        "time": "1t",
+        "subject": "Estatística II",
+        "teacher": "Prof. Danniel C. de Araujo"
+      },
+      {
+        "time": "2t",
+        "subject": "Estatística II",
+        "teacher": "Prof. Danniel C. de Araujo"
+      },
+      {
+        "time": "3t",
+        "subject": "Estatística II",
+        "teacher": "Prof. Danniel C. de Araujo"
+      },
+      {
+        "time": "4t",
+        "subject": "Gestão de Processos",
+        "teacher": "Prof. José R. D. de Melo"
+      },
+      {
+        "time": "5t",
+        "subject": "Gestão de Processos",
+        "teacher": "Prof. José R. D. de Melo"
+      },
+      {
+        "time": "6t",
+        "subject": "Gestão de Processos",
+        "teacher": "Prof. José R. D. de Melo"
+      }
     ],
     "ter": [
-      { "time": "1m", "subject": "Estatística II", "teacher": "Prof. Danniel C. Araujo" },
-      { "time": "2m", "subject": "Estatística II", "teacher": "Prof. Danniel C. Araujo" },
-      { "time": "3m", "subject": "Estatística II", "teacher": "Prof. Danniel C. Araujo" }
+      {
+        "time": "1t",
+        "subject": "Gestão da Produção",
+        "teacher": "Prof. Flora M. do M. Vilar"
+      },
+      {
+        "time": "2t",
+        "subject": "Gestão da Produção",
+        "teacher": "Prof. Flora M. do M. Vilar"
+      },
+      {
+        "time": "3t",
+        "subject": "Gestão da Produção",
+        "teacher": "Prof. Flora M. do M. Vilar"
+      },
+      {
+        "time": "4t",
+        "subject": "Gestão da Qualidade em Serviços",
+        "teacher": "Prof. José R. D. de Melo"
+      },
+      {
+        "time": "5t",
+        "subject": "Gestão da Qualidade em Serviços",
+        "teacher": "Prof. José R. D. de Melo"
+      },
+      {
+        "time": "6t",
+        "subject": "Gestão da Qualidade em Serviços",
+        "teacher": "Prof. José R. D. de Melo"
+      }
     ],
     "qua": [
-      { "time": "1m", "subject": "Gestão de Desenvolvimento do P.", "teacher": "Prof. Flora M. M. Vilar" },
-      { "time": "2m", "subject": "Gestão de Desenvolvimento do P.", "teacher": "Prof. Flora M. M. Vilar" },
-      { "time": "3m", "subject": "Gestão de Desenvolvimento do P.", "teacher": "Prof. Flora M. M. Vilar" },
-      { "time": "4m", "subject": "Projeto Integrador II", "teacher": "Prof. Jessyca S. F. Aires" },
-      { "time": "5m", "subject": "Projeto Integrador II", "teacher": "Prof. Jessyca S. F. Aires" },
-      { "time": "6m", "subject": "Projeto Integrador II", "teacher": "Prof. Jessyca S. F. Aires" }
+      {
+        "time": "1t",
+        "subject": "Gestão de Desenvolvimento do Produto",
+        "teacher": "Prof. Roberta V. A. F. da Silva"
+      },
+      {
+        "time": "2t",
+        "subject": "Gestão de Desenvolvimento do Produto",
+        "teacher": "Prof. Roberta V. A. F. da Silva"
+      },
+      {
+        "time": "3t",
+        "subject": "Gestão de Desenvolvimento do Produto",
+        "teacher": "Prof. Roberta V. A. F. da Silva"
+      },
+      {
+        "time": "4t",
+        "subject": "Projeto Integrador II",
+        "teacher": "Prof. Jessyca S. F. Aires"
+      },
+      {
+        "time": "5t",
+        "subject": "Projeto Integrador II",
+        "teacher": "Prof. Jessyca S. F. Aires"
+      },
+      {
+        "time": "6t",
+        "subject": "Projeto Integrador II",
+        "teacher": "Prof. Jessyca S. F. Aires"
+      }
     ],
-    "qui": [    
-      { "time": "1m", "subject": "Gestão de Produção", "teacher": "Prof. Inêz M. Santos" },
-      { "time": "2m", "subject": "Gestão de Produção", "teacher": "Prof. Inêz M. Santos" },
-      { "time": "3m", "subject": "Gestão de Produção", "teacher": "Prof. Inêz M. Santos" } ,
-      { "time": "4m", "subject": "Tecnologia e S. de I. Aplicados", "teacher": "Prof. Hebert G. Mendes" },
-      { "time": "5m", "subject": "Tecnologia e S. de I. Aplicados", "teacher": "Prof. Hebert G. Mendes" },
-      { "time": "6m", "subject": "Tecnologia e S. de I. Aplicados", "teacher": "Prof. Hebert G. Mendes" }
-    ]
+    "qui": [
+      {
+        "time": "1t",
+        "subject": "Tecnologia e Sist. de Informação Aplicados",
+        "teacher": "Prof. Hebert G. Mendes"
+      },
+      {
+        "time": "2t",
+        "subject": "Tecnologia e Sist. de Informação Aplicados",
+        "teacher": "Prof. Hebert G. Mendes"
+      },
+      {
+        "time": "3t",
+        "subject": "Tecnologia e Sist. de Informação Aplicados",
+        "teacher": "Prof. Hebert G. Mendes"
+      }
+    ],
+    "sex": []
   },
   "4°": {
     "seg": [
-      { "time": "1t", "subject": "Gestão Estratégica da Q.", "teacher": "Prof. Djalma A. Rangel" },
-      { "time": "2t", "subject": "Gestão Estratégica da Q.", "teacher": "Prof. Djalma A. Rangel" },
-      { "time": "3t", "subject": "Gestão Estratégica da Q.", "teacher": "Prof. Djalma A. Rangel" },
-      { "time": "4t", "subject": "Normalização e Certificação da Q.", "teacher": "Prof. Jessyca S. F. Aires" },
-      { "time": "5t", "subject": "Normalização e Certificação da Q.", "teacher": "Prof. Jessyca S. F. Aires" },
-      { "time": "6t", "subject": "Normalização e Certificação da Q.", "teacher": "Prof. Jessyca S. F. Aires" }
-  
+      {
+        "time": "1m",
+        "subject": "Metodologia da Pesquisa I",
+        "teacher": "Prof. Érica C. da S. Costa"
+      },
+      {
+        "time": "2m",
+        "subject": "Metodologia da Pesquisa I",
+        "teacher": "Prof. Érica C. da S. Costa"
+      },
+      {
+        "time": "4m",
+        "subject": "Gestão Estratégica da Q.",
+        "teacher": "Prof. José R. D. de Melo"
+      },
+      {
+        "time": "5m",
+        "subject": "Gestão Estratégica da Q.",
+        "teacher": "Prof. José R. D. de Melo"
+      },
+      {
+        "time": "6m",
+        "subject": "Gestão Estratégica da Q.",
+        "teacher": "Prof. José R. D. de Melo"
+      }
     ],
-    "ter": [
-      { "time": "1t", "subject": "Planejamento Estratégico", "teacher": "Prof. Adriana de F. V. Bastos" },
-      { "time": "2t", "subject": "Planejamento Estratégico", "teacher": "Prof. Adriana de F. V. Bastos" }
-    ],
+    "ter": [],
     "qua": [
-      { "time": "1t", "subject": "Gestão da Inovação", "teacher": "Prof. Adriana de F. V. Bastos" },
-      { "time": "2t", "subject": "Gestão da Inovação", "teacher": "Prof. Adriana de F. V. Bastos" },
-      { "time": "3t", "subject": "Gestão da Inovação", "teacher": "Prof. Adriana de F. V. Bastos" },
-      { "time": "4t", "subject": "Metodologia da Pesquisa I", "teacher": "Prof. Érica C. da S. Costa" },
-      { "time": "5t", "subject": "Metodologia da Pesquisa I", "teacher": "Prof. Érica C. da S. Costa" }
+      {
+        "time": "1m",
+        "subject": "Custos de Produção",
+        "teacher": "Prof. Roberta V. A. F. da Silva"
+      },
+      {
+        "time": "2m",
+        "subject": "Custos de Produção",
+        "teacher": "Prof. Roberta V. A. F. da Silva"
+      },
+      {
+        "time": "3m",
+        "subject": "Metrologia",
+        "teacher": "Prof. Djalma A. Rangel"
+      },
+      {
+        "time": "4m",
+        "subject": "Metrologia",
+        "teacher": "Prof. Djalma A. Rangel"
+      },
+      {
+        "time": "5m",
+        "subject": "Metrologia",
+        "teacher": "Prof. Djalma A. Rangel"
+      },
+      {
+        "time": "6m",
+        "subject": "Metrologia",
+        "teacher": "Prof. Djalma A. Rangel"
+      }
     ],
     "qui": [
-      { "time": "1t", "subject": "Metrologia", "teacher": "Prof. Djalma A. Rangel" },
-      { "time": "2t", "subject": "Metrologia", "teacher": "Prof. Djalma A. Rangel" },
-      { "time": "3t", "subject": "Metrologia", "teacher": "Prof. Djalma A. Rangel" },
-      { "time": "4t", "subject": "Metrologia", "teacher": "Prof. Djalma A. Rangel" },
-      { "time": "5t", "subject": "Custos de Produção", "teacher": "Prof. Djalma A. Rangel" },
-      { "time": "6t", "subject": "Custos de Produção", "teacher": "Prof. Djalma A. Rangel" }
+      {
+        "time": "2m",
+        "subject": "Gestão da Inovação",
+        "teacher": "Prof. Adriana de F. V. Bastos"
+      },
+      {
+        "time": "3m",
+        "subject": "Gestão da Inovação",
+        "teacher": "Prof. Adriana de F. V. Bastos"
+      },
+      {
+        "time": "4m",
+        "subject": "Gestão da Inovação",
+        "teacher": "Prof. Adriana de F. V. Bastos"
+      },
+      {
+        "time": "5m",
+        "subject": "Planejamento Estratégico",
+        "teacher": "Prof. Adriana de F. V. Bastos"
+      },
+      {
+        "time": "6m",
+        "subject": "Planejamento Estratégico",
+        "teacher": "Prof. Adriana de F. V. Bastos"
+      }
     ],
     "sex": [
-      { "time": "1t", "subject": "Controle Estatístico da Qualidade", "teacher": "Prof. Djalma A. Rangel" },
-      { "time": "2t", "subject": "Controle Estatístico da Qualidade", "teacher": "Prof. Djalma A. Rangel" },
-      { "time": "3t", "subject": "Controle Estatístico da Qualidade", "teacher": "Prof. Djalma A. Rangel" }
+      {
+        "time": "1m",
+        "subject": "Controle Estatístico da Qualidade",
+        "teacher": "Prof. Djalma A. Rangel"
+      },
+      {
+        "time": "2m",
+        "subject": "Controle Estatístico da Qualidade",
+        "teacher": "Prof. Djalma A. Rangel"
+      },
+      {
+        "time": "3m",
+        "subject": "Controle Estatístico da Qualidade",
+        "teacher": "Prof. Djalma A. Rangel"
+      },
+      {
+        "time": "4m",
+        "subject": "Normalização e Certificação da Q.",
+        "teacher": "Prof. Anderson C. de Oliveira"
+      },
+      {
+        "time": "5m",
+        "subject": "Normalização e Certificação da Q.",
+        "teacher": "Prof. Anderson C. de Oliveira"
+      },
+      {
+        "time": "6m",
+        "subject": "Normalização e Certificação da Q.",
+        "teacher": "Prof. Anderson C. de Oliveira"
+      }
     ]
   },
   "5°": {
     "seg": [
-      { "time": "1m", "subject": "Empreendedorismo", "teacher": "Prof. Luiz H. de O. Martins" },
-      { "time": "2m", "subject": "Empreendedorismo", "teacher": "Prof. Luiz H. de O. Martins" },
-      { "time": "3m", "subject": "Empreendedorismo", "teacher": "Prof. Luiz H. de O. Martins" },
-      { "time": "4m", "subject": "Auditoria da Qualidade", "teacher": "Prof. Jessyca S. F. Aires" },
-      { "time": "5m", "subject": "Auditoria da Qualidade", "teacher": "Prof. Jessyca S. F. Aires" },
-      { "time": "6m", "subject": "Auditoria da Qualidade", "teacher": "Prof. Jessyca S. F. Aires" }
+      {
+        "time": "1t",
+        "subject": "Auditoria da Qualidade",
+        "teacher": "Prof. Jessyca S. F. Aires"
+      },
+      {
+        "time": "2t",
+        "subject": "Auditoria da Qualidade",
+        "teacher": "Prof. Jessyca S. F. Aires"
+      },
+      {
+        "time": "3t",
+        "subject": "Auditoria da Qualidade",
+        "teacher": "Prof. Jessyca S. F. Aires"
+      }
     ],
     "ter": [
-      { "time": "1m", "subject": "Ergonomia H. e Segurança do T.", "teacher": "Prof. Ana C. M. R. Lemos" },
-      { "time": "2m", "subject": "Ergonomia H. e Segurança do T.", "teacher": "Prof. Ana C. M. R. Lemos" },
-      { "time": "3m", "subject": "Ergonomia H. e Segurança do T.", "teacher": "Prof. Ana C. M. R. Lemos" },
-      { "time": "4m", "subject": "Metodologia da Pesquisa II", "teacher": "Prof. Adriana de F. V. Bastos" },
-      { "time": "5m", "subject": "Metodologia da Pesquisa II", "teacher": "Prof. Adriana de F. V. Bastos" }
+      {
+        "time": "1t",
+        "subject": "Metodologia da Pesquisa II",
+        "teacher": "Prof. Anderson C. de Oliveira"
+      },
+      {
+        "time": "2t",
+        "subject": "Metodologia da Pesquisa II",
+        "teacher": "Prof. Anderson C. de Oliveira"
+      },
+      {
+        "time": "4t",
+        "subject": "Ergonomia H. e Segurança do T.",
+        "teacher": "Prof. Ana C. M. R. Lemos"
+      },
+      {
+        "time": "5t",
+        "subject": "Ergonomia H. e Segurança do T.",
+        "teacher": "Prof. Ana C. M. R. Lemos"
+      },
+      {
+        "time": "6t",
+        "subject": "Ergonomia H. e Segurança do T.",
+        "teacher": "Prof. Ana C. M. R. Lemos"
+      }
     ],
     "qua": [
-      { "time": "4m", "subject": "Gestão de Projetos", "teacher": "Prof. Charles G. Martins" },
-      { "time": "5m", "subject": "Gestão de Projetos", "teacher": "Prof. Charles G. Martins" },
-      { "time": "6m", "subject": "Gestão de Projetos", "teacher": "Prof. Charles G. Martins" }
+      {
+        "time": "1t",
+        "subject": "Noções Gerais do Direito",
+        "teacher": "Prof. Raissa Paula M. Rocha"
+      },
+      {
+        "time": "2t",
+        "subject": "Noções Gerais do Direito",
+        "teacher": "Prof. Raissa Paula M. Rocha"
+      },
+      {
+        "time": "3t",
+        "subject": "Noções Gerais do Direito",
+        "teacher": "Prof. Raissa Paula M. Rocha"
+      }
     ],
-     "sex": [
-      { "time": "4m", "subject": "Noções Gerais do Direito", "teacher": "Prof. Leonardo M. P." },
-      { "time": "5m", "subject": "Noções Gerais do Direito", "teacher": "Prof. Leonardo M. P." },
-      { "time": "6m", "subject": "Noções Gerais do Direito", "teacher": "Prof. Leonardo M. P." }
+    "sex": [
+      {
+        "time": "1t",
+        "subject": "Empreendedorismo",
+        "teacher": "Prof. Luiz H. de O. Martins"
+      },
+      {
+        "time": "2t",
+        "subject": "Empreendedorismo",
+        "teacher": "Prof. Luiz H. de O. Martins"
+      },
+      {
+        "time": "3t",
+        "subject": "Empreendedorismo",
+        "teacher": "Prof. Luiz H. de O. Martins"
+      },
+      {
+        "time": "4t",
+        "subject": "Gestão de Projetos",
+        "teacher": "Prof. Charles G. Martins"
+      },
+      {
+        "time": "5t",
+        "subject": "Gestão de Projetos",
+        "teacher": "Prof. Charles G. Martins"
+      },
+      {
+        "time": "6t",
+        "subject": "Gestão de Projetos",
+        "teacher": "Prof. Charles G. Martins"
+      }
     ]
   }
 }
