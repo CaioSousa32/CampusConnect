@@ -1,107 +1,382 @@
 {
   "1°": {
     "seg": [
-      { "time": "1t", "subject": "Lógica de Programação O. E. D.", "teacher": "Prof. Allan D. Lima" },
-      { "time": "2t", "subject": "Lógica de Programação O. E. D.", "teacher": "Prof. Allan D. Lima" },
-      { "time": "4t", "subject": "Português Instrumental", "teacher": "Prof. Érica C. da S. Costa" },
-      { "time": "5t", "subject": "Português Instrumental", "teacher": "Prof. Érica C. da S. Costa" },
-      { "time": "6t", "subject": "Português Instrumental", "teacher": "Prof. Érica C. da S. Costa" }
+      {
+        "time": "1m",
+        "subject": "Lógica de Programação O. E. D.",
+        "teacher": "Prof. Allan D. Lima"
+      },
+      {
+        "time": "2m",
+        "subject": "Lógica de Programação O. E. D.",
+        "teacher": "Prof. Allan D. Lima"
+      },
+      {
+        "time": "4m",
+        "subject": "Português Instrumental",
+        "teacher": "Prof. Érica C. da S. Costa"
+      },
+      {
+        "time": "5m",
+        "subject": "Português Instrumental",
+        "teacher": "Prof. Érica C. da S. Costa"
+      },
+      {
+        "time": "6m",
+        "subject": "Português Instrumental",
+        "teacher": "Prof. Érica C. da S. Costa"
+      }
     ],
     "ter": [
-      { "time": "1t", "subject": "Matemática Aplicada", "teacher": "Prof. Hugo L. Dantas" },
-      { "time": "2t", "subject": "Matemática Aplicada", "teacher": "Prof. Hugo L. Dantas" },
-      { "time": "3t", "subject": "Segurança do Trabalho", "teacher": "Prof. Ana C. M. R. Lemos" },
-      { "time": "4t", "subject": "Segurança do Trabalho", "teacher": "Prof. Ana C. M. R. Lemos" }
+      {
+        "time": "3m",
+        "subject": "Segurança do Trabalho",
+        "teacher": "Prof. Ana C. M. R. Lemos"
+      },
+      {
+        "time": "4m",
+        "subject": "Segurança do Trabalho",
+        "teacher": "Prof. Ana C. M. R. Lemos"
+      },
+      {
+        "time": "5m",
+        "subject": "Inglês Instrumental",
+        "teacher": "Prof. Mari T. Soares"
+      },
+      {
+        "time": "6m",
+        "subject": "Inglês Instrumental",
+        "teacher": "Prof. Mari T. Soares"
+      }
     ],
-    "qua": [      
-      { "time": "1t", "subject": "Fundamentos da Informática", "teacher": "Prof. Hebert G. Mendes" },
-      { "time": "2t", "subject": "Fundamentos da Informática", "teacher": "Prof. Hebert G. Mendes" },
-      { "time": "3t", "subject": "Fundamentos da Informática", "teacher": "Prof. Hebert G. Mendes" },
-      { "time": "3t", "subject": "Matemática Aplicada", "teacher": "Prof. Hugo L. Dantas" },
-      { "time": "4t", "subject": "Matemática Aplicada", "teacher": "Prof. Hugo L. Dantas" }
+    "qua": [
+      {
+        "time": "3m",
+        "subject": "Matemática Aplicada",
+        "teacher": "Prof. Hugo L. Dantas"
+      },
+      {
+        "time": "4m",
+        "subject": "Matemática Aplicada",
+        "teacher": "Prof. Hugo L. Dantas"
+      },
+      {
+        "time": "5m",
+        "subject": "Matemática Aplicada",
+        "teacher": "Prof. Hugo L. Dantas"
+      },
+      {
+        "time": "6m",
+        "subject": "Matemática Aplicada",
+        "teacher": "Prof. Hugo L. Dantas"
+      }
     ],
     "qui": [
-      { "time": "1t", "subject": "Lógica de Programação O. E. D.", "teacher": "Prof. Allan D. Lima" },
-      { "time": "2t", "subject": "Lógica de Programação O. E. D.", "teacher": "Prof. Allan D. Lima" },      
-      { "time": "3t", "subject": "Lógica de Programação O. E. D.", "teacher": "Prof. Allan D. Lima" },
-      { "time": "4t", "subject": "Inglês Instrumental", "teacher": "Prof. Mari T. Soares" },
-      { "time": "5t", "subject": "Inglês Instrumental", "teacher": "Prof. Mari T. Soares" }
+      {
+        "time": "1m",
+        "subject": "Lógica de Programação O. E. D.",
+        "teacher": "Prof. Allan D. Lima"
+      },
+      {
+        "time": "2m",
+        "subject": "Lógica de Programação O. E. D.",
+        "teacher": "Prof. Allan D. Lima"
+      },
+      {
+        "time": "3m",
+        "subject": "Lógica de Programação O. E. D.",
+        "teacher": "Prof. Allan D. Lima"
+      },
+      {
+        "time": "4m",
+        "subject": "Fundamentos da Informática",
+        "teacher": "Prof. Hebert G. Mendes"
+      },
+      {
+        "time": "5m",
+        "subject": "Fundamentos da Informática",
+        "teacher": "Prof. Hebert G. Mendes"
+      },
+      {
+        "time": "6m",
+        "subject": "Fundamentos da Informática",
+        "teacher": "Prof. Hebert G. Mendes"
+      }
     ],
     "sex": [
-      { "time": "1t", "subject": "Redes de Computadores", "teacher": "Prof. Gustavo N. Martins" },
-      { "time": "2t", "subject": "Redes de Computadores", "teacher": "Prof. Gustavo N. Martins" },
-      { "time": "3t", "subject": "Redes de Computadores", "teacher": "Prof. Gustavo N. Martins" },
-      { "time": "4t", "subject": "Redes de Computadores", "teacher": "Prof. Gustavo N. Martins" }
+      {
+        "time": "3m",
+        "subject": "Redes de Computadores",
+        "teacher": "Prof. Gustavo N. Martins"
+      },
+      {
+        "time": "4m",
+        "subject": "Redes de Computadores",
+        "teacher": "Prof. Gustavo N. Martins"
+      },
+      {
+        "time": "5m",
+        "subject": "Redes de Computadores",
+        "teacher": "Prof. Gustavo N. Martins"
+      },
+      {
+        "time": "6m",
+        "subject": "Redes de Computadores",
+        "teacher": "Prof. Gustavo N. Martins"
+      }
     ]
   },
   "2°": {
     "seg": [
-      { "time": "1m", "subject": "Segurança de Sistemas p. I.", "teacher": "Prof. Ramon M. S. Farias" },
-      { "time": "2m", "subject": "Segurança de Sistemas p. I.", "teacher": "Prof. Ramon M. S. Farias" },
-      { "time": "3m", "subject": "Banco de Dados", "teacher": "Prof. Milton S. Junior" },
-      { "time": "4m", "subject": "Banco de Dados", "teacher": "Prof. Milton S. Junior" },
-      { "time": "5m", "subject": "Banco de Dados", "teacher": "Prof. Milton S. Junior" },
-      { "time": "6m", "subject": "Banco de Dados", "teacher": "Prof. Milton S. Junior" }
+      {
+        "time": "1t",
+        "subject": "Sistemas Operacionais",
+        "teacher": "Prof. Marcone José Silva"
+      },
+      {
+        "time": "2t",
+        "subject": "Sistemas Operacionais",
+        "teacher": "Prof. Marcone José Silva"
+      },
+      {
+        "time": "3t",
+        "subject": "Banco de Dados",
+        "teacher": "Prof. Milton S. Junior"
+      },
+      {
+        "time": "4t",
+        "subject": "Banco de Dados",
+        "teacher": "Prof. Milton S. Junior"
+      },
+      {
+        "time": "5t",
+        "subject": "Banco de Dados",
+        "teacher": "Prof. Milton S. Junior"
+      },
+      {
+        "time": "6t",
+        "subject": "Banco de Dados",
+        "teacher": "Prof. Milton S. Junior"
+      }
     ],
     "ter": [
-       { "time": "1m", "subject": "Programaçãp Orientada a Objeto", "teacher": "Prof. Milton S. Junior" },
-       { "time": "2m", "subject": "Programaçãp Orientada a Objeto", "teacher": "Prof. Milton S. Junior" },
-       { "time": "3m", "subject": "Programaçãp Orientada a Objeto", "teacher": "Prof. Milton S. Junior" },
-       { "time": "4m", "subject": "Ética Profissional e C.", "teacher": "Prof. Willyans G. Coelho" },
-       { "time": "5m", "subject": "Ética Profissional e C.", "teacher": "Prof. Willyans G. Coelho" }
-     ],
+      {
+        "time": "1t",
+        "subject": "Programação Orientada a Objeto",
+        "teacher": ""
+      },
+      {
+        "time": "2t",
+        "subject": "Programação Orientada a Objeto",
+        "teacher": ""
+      },
+      {
+        "time": "3t",
+        "subject": "Programação Orientada a Objeto",
+        "teacher": ""
+      },
+      {
+        "time": "4t",
+        "subject": "Segurança de Sistemas p. I.",
+        "teacher": "Prof. Ramon M. S. Farias"
+      },
+      {
+        "time": "5t",
+        "subject": "Segurança de Sistemas p. I.",
+        "teacher": "Prof. Ramon M. S. Farias"
+      },
+      {
+        "time": "6t",
+        "subject": "Segurança de Sistemas p. I.",
+        "teacher": "Prof. Ramon M. S. Farias"
+      }
+    ],
     "qua": [
-       { "time": "1m", "subject": "Segurança de Sistemas p. I.", "teacher": "Prof. Ramon M. S. Farias" },
-       { "time": "3m", "subject": "Sistemas Operacionais", "teacher": "Prof. Marcone José Silva" },
-       { "time": "4m", "subject": "Sistemas Operacionais", "teacher": "Prof. Marcone José Silva" },
-       { "time": "5m", "subject": "Sistemas Operacionais", "teacher": "Prof. Marcone José Silva" }
-     ],
-    "qui": [
-       { "time": "3m", "subject": "Projeto e Prática I", "teacher": "Prof. Ranieri V. de C." },
-       { "time": "4m", "subject": "Projeto e Prática I", "teacher": "Prof. Ranieri V. de C." },
-       { "time": "5m", "subject": "Projeto e Prática I", "teacher": "Prof. Ranieri V. de C." },
-       { "time": "6m", "subject": "Projeto e Prática I", "teacher": "Prof. Ranieri V. de C." }
-     ],
+      {
+        "time": "1t",
+        "subject": "Sistemas Operacionais",
+        "teacher": "Prof. Marcone José Silva"
+      },
+      {
+        "time": "2t",
+        "subject": "Desenvolvimento para Web I",
+        "teacher": "Prof. Alexandre S. G. Viana"
+      },
+      {
+        "time": "3t",
+        "subject": "Desenvolvimento para Web I",
+        "teacher": "Prof. Alexandre S. G. Viana"
+      },
+      {
+        "time": "4t",
+        "subject": "Desenvolvimento para Web I",
+        "teacher": "Prof. Alexandre S. G. Viana"
+      },
+      {
+        "time": "5t",
+        "subject": "Desenvolvimento para Web I",
+        "teacher": "Prof. Alexandre S. G. Viana"
+      }
+    ],
+    "qui": [],
     "sex": [
-       { "time": "3m", "subject": "Desenvolvimento para Web I", "teacher": "Prof. Alexandre S. G. Viana" },
-       { "time": "4m", "subject": "Desenvolvimento para Web I", "teacher": "Prof. Alexandre S. G. Viana" },
-       { "time": "5m", "subject": "Desenvolvimento para Web I", "teacher": "Prof. Alexandre S. G. Viana" },
-       { "time": "6m", "subject": "Desenvolvimento para Web I", "teacher": "Prof. Alexandre S. G. Viana" }
-    ] 
+      {
+        "time": "1t",
+        "subject": "Projeto e Prática I",
+        "teacher": ""
+      },
+      {
+        "time": "2t",
+        "subject": "Projeto e Prática I",
+        "teacher": ""
+      },
+      {
+        "time": "3t",
+        "subject": "Projeto e Prática I",
+        "teacher": ""
+      },
+      {
+        "time": "4t",
+        "subject": "Projeto e Prática I",
+        "teacher": ""
+      },
+      {
+        "time": "5t",
+        "subject": "Ética Profissional e C.",
+        "teacher": "Prof. Willyans G. Coelho"
+      },
+      {
+        "time": "6t",
+        "subject": "Ética Profissional e C.",
+        "teacher": "Prof. Willyans G. Coelho"
+      }
+    ]
   },
   "3°": {
     "seg": [
-      { "time": "1t", "subject": "Implantação e A. de S. Web", "teacher": "Prof. Ramon M. S. Farias" },
-      { "time": "2t", "subject": "Implantação e A. de S. Web", "teacher": "Prof. Ramon M. S. Farias" },
-      { "time": "3t", "subject": "Implantação e A. de S. Web", "teacher": "Prof. Ramon M. S. Farias" },
-      { "time": "4t", "subject": "Implantação e A. de S. Web", "teacher": "Prof. Ramon M. S. Farias" },
-      { "time": "5t", "subject": "Implantação e A. de S. Web", "teacher": "Prof. Ramon M. S. Farias" }
+      {
+        "time": "5m",
+        "subject": "Engenharia de Software",
+        "teacher": "Prof. Marcone José Silva"
+      },
+      {
+        "time": "6m",
+        "subject": "Engenharia de Software",
+        "teacher": "Prof. Marcone José Silva"
+      }
     ],
     "ter": [
-      { "time": "1t", "subject": "Desenvolvimento para Web II", "teacher": "Prof. Alexandre Strapação" },
-      { "time": "2t", "subject": "Desenvolvimento para Web II", "teacher": "Prof. Alexandre Strapação" },
-      { "time": "3t", "subject": "Desenvolvimento para Web II", "teacher": "Prof. Alexandre Strapação" },
-      { "time": "4t", "subject": "Desenvolvimento para Web II", "teacher": "Prof. Alexandre Strapação" },
-      { "time": "5t", "subject": "Empreendedorismo", "teacher": "Prof. Luiz H. O. Martins" },
-      { "time": "6t", "subject": "Empreendedorismo", "teacher": "Prof. Luiz H. O. Martins" }
+      {
+        "time": "2m",
+        "subject": "Implantação e A. de S. Web",
+        "teacher": "Prof. Ramon M. S. Farias"
+      },
+      {
+        "time": "3m",
+        "subject": "Implantação e A. de S. Web",
+        "teacher": "Prof. Ramon M. S. Farias"
+      },
+      {
+        "time": "4m",
+        "subject": "Implantação e A. de S. Web",
+        "teacher": "Prof. Ramon M. S. Farias"
+      },
+      {
+        "time": "5m",
+        "subject": "Implantação e A. de S. Web",
+        "teacher": "Prof. Ramon M. S. Farias"
+      },
+      {
+        "time": "6m",
+        "subject": "Implantação e A. de S. Web",
+        "teacher": "Prof. Ramon M. S. Farias"
+      }
     ],
     "qua": [
-      { "time": "1t", "subject": "Engenharia de Software", "teacher": "Prof. Marcone José Silva" },
-      { "time": "2t", "subject": "Engenharia de Software", "teacher": "Prof. Marcone José Silva" },
-      { "time": "3t", "subject": "Engenharia de Software", "teacher": "Prof. Marcone José Silva" },
-      { "time": "4t", "subject": "Engenharia de Software", "teacher": "Prof. Marcone José Silva" }
+      {
+        "time": "1m",
+        "subject": "Engenharia de Software",
+        "teacher": "Prof. Marcone José Silva"
+      },
+      {
+        "time": "2m",
+        "subject": "Engenharia de Software",
+        "teacher": "Prof. Marcone José Silva"
+      },
+      {
+        "time": "3m",
+        "subject": "Desenvolvimento para Web II",
+        "teacher": "Prof. Alexandre S. G. Viana"
+      },
+      {
+        "time": "4m",
+        "subject": "Desenvolvimento para Web II",
+        "teacher": "Prof. Alexandre S. G. Viana"
+      },
+      {
+        "time": "5m",
+        "subject": "Desenvolvimento para Web II",
+        "teacher": "Prof. Alexandre S. G. Viana"
+      },
+      {
+        "time": "6m",
+        "subject": "Desenvolvimento para Web II",
+        "teacher": "Prof. Alexandre S. G. Viana"
+      }
     ],
     "qui": [
-      { "time": "1t", "subject": "Projeto e Prática II", "teacher": "Prof. Liliane A. do N. Sales" },
-      { "time": "2t", "subject": "Projeto e Prática II", "teacher": "Prof. Liliane A. do N. Sales" },
-      { "time": "3t", "subject": "Projeto e Prática II", "teacher": "Prof. Liliane A. do N. Sales" },
-      { "time": "4t", "subject": "Projeto e Prática II", "teacher": "Prof. Liliane A. do N. Sales" },
-      { "time": "5t", "subject": "Projeto e Prática II", "teacher": "Prof. Liliane A. do N. Sales" } 
+      {
+        "time": "1m",
+        "subject": "Interação Humano Computador",
+        "teacher": "Prof. Renata V. M. Santana"
+      },
+      {
+        "time": "2m",
+        "subject": "Interação Humano Computador",
+        "teacher": "Prof. Renata V. M. Santana"
+      },
+      {
+        "time": "3m",
+        "subject": "Interação Humano Computador",
+        "teacher": "Prof. Renata V. M. Santana"
+      },
+      {
+        "time": "5m",
+        "subject": "Projeto e Prática II",
+        "teacher": "Prof. Liliane A. do N. Sales"
+      },
+      {
+        "time": "6m",
+        "subject": "Projeto e Prática II",
+        "teacher": "Prof. Liliane A. do N. Sales"
+      }
     ],
     "sex": [
-      { "time": "3t", "subject": "Interação Humano Computador", "teacher": "Prof. Renata V. M. Santana" },
-      { "time": "4t", "subject": "Interação Humano Computador", "teacher": "Prof. Renata V. M. Santana" },
-      { "time": "5t", "subject": "Interação Humano Computador", "teacher": "Prof. Renata V. M. Santana" }
+      {
+        "time": "1m",
+        "subject": "Projeto e Prática II",
+        "teacher": "Prof. Liliane A. do N. Sales"
+      },
+      {
+        "time": "2m",
+        "subject": "Projeto e Prática II",
+        "teacher": "Prof. Liliane A. do N. Sales"
+      },
+      {
+        "time": "3m",
+        "subject": "Projeto e Prática II",
+        "teacher": "Prof. Liliane A. do N. Sales"
+      },
+      {
+        "time": "4m",
+        "subject": "Empreendedorismo",
+        "teacher": "Prof. Luiz H. O. Martins"
+      },
+      {
+        "time": "5m",
+        "subject": "Empreendedorismo",
+        "teacher": "Prof. Luiz H. O. Martins"
+      }
     ]
   }
 }
