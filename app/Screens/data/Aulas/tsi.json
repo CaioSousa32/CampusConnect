@@ -284,12 +284,12 @@
       {
         "time": "5m",
         "subject": "Projeto de Desenvolvimento I",
-        "teacher": "Prof. Liliane A. N. Sales"
+        "teacher": ""
       },
       {
         "time": "6m",
         "subject": "Projeto de Desenvolvimento I",
-        "teacher": "Prof. Liliane A. N. Sales"
+        "teacher": ""
       }
     ]
   },
@@ -582,32 +582,32 @@
       {
         "time": "1t",
         "subject": "Teste e Qualidade de Software",
-        "teacher": "Prof. Liliane A. N. Sales"
+        "teacher": ""
       },
       {
         "time": "2t",
         "subject": "Teste e Qualidade de Software",
-        "teacher": "Prof. Liliane A. N. Sales"
+        "teacher": ""
       },
       {
         "time": "3t",
         "subject": "Teste e Qualidade de Software",
-        "teacher": "Prof. Liliane A. N. Sales"
+        "teacher": ""
       },
       {
         "time": "4t",
         "subject": "Projeto de Desenvolvimento IV",
-        "teacher": "Prof. Liliane A. N. Sales"
+        "teacher": ""
       },
       {
         "time": "5t",
         "subject": "Projeto de Desenvolvimento IV",
-        "teacher": "Prof. Liliane A. N. Sales"
+        "teacher": ""
       },
       {
         "time": "6t",
         "subject": "Projeto de Desenvolvimento IV",
-        "teacher": "Prof. Liliane A. N. Sales"
+        "teacher": ""
       }
     ],
     "qua": [
@@ -666,7 +666,7 @@
       {
         "time": "4t",
         "subject": "Projeto de Desenvolvimento IV",
-        "teacher": "Prof. Liliane A. N. Sales"
+        "teacher": ""
       }
     ]
   },
