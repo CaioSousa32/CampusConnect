@@ -19,6 +19,16 @@
     ],
     "ter": [
       {
+        "time": "1madm",
+        "subject": "Ética Profissional em A.",
+        "teacher": "Prof. Willyans G. Coelho"
+      },
+      {
+        "time": "2madm",
+        "subject": "Ética Profissional em A.",
+        "teacher": "Prof. Willyans G. Coelho"
+      },
+      {
         "time": "3madm",
         "subject": "Introdução à Administração",
         "teacher": "Prof. Simonelle W. do Nascimento"
@@ -37,31 +47,21 @@
     "qua": [
       {
         "time": "3madm",
-        "subject": "Matemática Aplicada à Administração",
+        "subject": "Matemática Aplicada à A.",
         "teacher": "Prof. Cícero R. da S. Júnior"
       },
       {
         "time": "4madm",
-        "subject": "Matemática Aplicada à Administração",
+        "subject": "Matemática Aplicada à A.",
         "teacher": "Prof. Cícero R. da S. Júnior"
       },
       {
         "time": "5madm",
-        "subject": "Matemática Aplicada à Administração",
+        "subject": "Matemática Aplicada à A.",
         "teacher": "Prof. Cícero R. da S. Júnior"
       }
     ],
     "qui": [
-      {
-        "time": "1madm",
-        "subject": "Ética Profissional em Administração",
-        "teacher": "Prof. Willyans G. Coelho"
-      },
-      {
-        "time": "2madm",
-        "subject": "Ética Profissional em Administração",
-        "teacher": "Prof. Willyans G. Coelho"
-      }
     ],
     "sex": [
       {
@@ -145,12 +145,12 @@
       },
       {
         "time": "4tadm",
-        "subject": "Noções de Direito Público e Privado",
+        "subject": "Noções de Direito P. e P.",
         "teacher": "Prof. Raissa P. M. Rocha"
       },
       {
         "time": "5tadm",
-        "subject": "Noções de Direito Público e Privado",
+        "subject": "Noções de Direito P. e P.",
         "teacher": "Prof. Raissa P. M. Rocha"
       }
     ],
@@ -219,16 +219,26 @@
       },
       {
         "time": "4madm",
-        "subject": "Administração e Legislação Tributária",
+        "subject": "Administração e Legislação T.",
         "teacher": "Prof. Michelle S. de O. Cedraz"
       },
       {
         "time": "5madm",
-        "subject": "Administração e Legislação Tributária",
+        "subject": "Administração e Legislação T.",
         "teacher": "Prof. Michelle S. de O. Cedraz"
       }
     ],
     "qui": [
+      {
+        "time": "1madm",
+        "subject": "Organização, Sistemas e Métodos",
+        "teacher": "Prof. Bárbara C. B. de Souza"
+      },
+      {
+        "time": "2madm",
+        "subject": "Organização, Sistemas e Métodos",
+        "teacher": "Prof. Bárbara C. B. de Souza"
+      },
       {
         "time": "3madm",
         "subject": "Gestão de Pessoas I",
@@ -246,16 +256,6 @@
       }
     ],
     "sex": [
-      {
-        "time": "1madm",
-        "subject": "Organização, Sistemas e Métodos",
-        "teacher": "Prof. Bárbara C. B. de Souza"
-      },
-      {
-        "time": "2madm",
-        "subject": "Organização, Sistemas e Métodos",
-        "teacher": "Prof. Bárbara C. B. de Souza"
-      },
       {
         "time": "3madm",
         "subject": "Metodologia Científica",
@@ -294,9 +294,19 @@
     "ter": [],
     "qua": [
       {
-        "time": "3tadm",
+        "time": "1tadm",
         "subject": "Terceiro Setor",
         "teacher": "Prof. Charles G. Martins"
+      },
+      {
+        "time": "2tadm",
+        "subject": "Terceiro Setor",
+        "teacher": "Prof. Charles G. Martins"
+      },
+      {
+        "time": "3tadm",
+        "subject": "Contabilidade Ger. e de C.",
+        "teacher": "Prof. Djalma A. Rangel"
       }
     ],
     "qui": [
@@ -344,12 +354,12 @@
       },
       {
         "time": "4tadm",
-        "subject": "Contabilidade Gerencial e de Custos",
+        "subject": "Contabilidade Ger. e de C.",
         "teacher": "Prof. Djalma A. Rangel"
       },
       {
         "time": "5tadm",
-        "subject": "Contabilidade Gerencial e de Custos",
+        "subject": "Contabilidade Ger. e de C.",
         "teacher": "Prof. Djalma A. Rangel"
       }
     ]
@@ -385,17 +395,17 @@
     "ter": [
       {
         "time": "3madm",
-        "subject": "Administração da Produção e Operações I",
+        "subject": "Administração da P. e O. I",
         "teacher": "Prof. Flora M. do M. Vilar"
       },
       {
         "time": "4madm",
-        "subject": "Administração da Produção e Operações I",
+        "subject": "Administração da P. e O. I",
         "teacher": "Prof. Flora M. do M. Vilar"
       },
       {
         "time": "5madm",
-        "subject": "Administração da Produção e Operações I",
+        "subject": "Administração da P. e O. I",
         "teacher": "Prof. Flora M. do M. Vilar"
       }
     ],
@@ -464,6 +474,16 @@
       }
     ],
     "ter": [
+{
+        "time": "1tadm",
+        "subject": "Logística Empresarial",
+        "teacher": "Prof. José T. P. Magalhães"
+      },
+      {
+        "time": "2tadm",
+        "subject": "Logística Empresarial",
+        "teacher": "Prof. José T. P. Magalhães"
+      },
       {
         "time": "3tadm",
         "subject": "Administração da P. e O. II",
@@ -510,48 +530,37 @@
     "qui": [
       {
         "time": "1tadm",
-        "subject": "Logística Empresarial",
-        "teacher": "Prof. José T. P. Magalhães"
+        "subject": "Gestão e Inovação Tecnológica",
+        "teacher": "Prof. Adriana de F. V. Bastos"
       },
       {
         "time": "2tadm",
-        "subject": "Logística Empresarial",
-        "teacher": "Prof. José T. P. Magalhães"
-      },
-      {
-        "time": "3tadm",
         "subject": "Gestão e Inovação Tecnológica",
         "teacher": "Prof. Adriana de F. V. Bastos"
       },
       {
+        "time": "3tadm",
+        "subject": "Marketing Digital e E-commerce",
+        "teacher": "Prof. Adriana de F. V. Bastos"
+      },
+      {
         "time": "4tadm",
-        "subject": "Gestão e Inovação Tecnológica",
+        "subject": "Marketing Digital e E-commerce",
         "teacher": "Prof. Adriana de F. V. Bastos"
       }
     ],
-    "sex": [
-      {
-        "time": "3tadm",
-        "subject": "Marketing Digital e E-commerce",
-        "teacher": "Prof. Adriana de F. V. Bastos"
-      },
-      {
-        "time": "4tadm",
-        "subject": "Marketing Digital e E-commerce",
-        "teacher": "Prof. Adriana de F. V. Bastos"
-      }
-    ]
+    "sex": []
   },
   "7°": {
     "seg": [
       {
         "time": "1madm",
-        "subject": "Gestão Ambiental e Sustentabilidade",
+        "subject": "Gestão Ambiental e S.",
         "teacher": "Prof. Alexandre M. A. de Oliveira"
       },
       {
         "time": "2madm",
-        "subject": "Gestão Ambiental e Sustentabilidade",
+        "subject": "Gestão Ambiental e S.",
         "teacher": "Prof. Alexandre M. A. de Oliveira"
       },
       {
@@ -619,8 +628,7 @@
         "teacher": "Prof. Josefa R. Q. da C. Gomes"
       }
     ],
-    "qui": [],
-    "sex": [
+    "qui": [
       {
         "time": "3madm",
         "subject": "Metodologia de Pesquisa I",
@@ -636,7 +644,8 @@
         "subject": "Metodologia de Pesquisa I",
         "teacher": "Prof. Andreza S. Cordeiro"
       }
-    ]
+    ],
+    "sex": []
   },
   "8°": {
     "seg": [
@@ -681,17 +690,17 @@
     "qua": [
       {
         "time": "1tadm",
-        "subject": "Simulações e Estratégias Empresariais",
+        "subject": "Simulações e Estratégias E.",
         "teacher": "Prof. Josefa R. Q. da C. Gomes"
       },
       {
         "time": "2tadm",
-        "subject": "Simulações e Estratégias Empresariais",
+        "subject": "Simulações e Estratégias E.",
         "teacher": "Prof. Josefa R. Q. da C. Gomes"
       },
       {
         "time": "3tadm",
-        "subject": "Simulações e Estratégias Empresariais",
+        "subject": "Simulações e Estratégias E.",
         "teacher": "Prof. Josefa R. Q. da C. Gomes"
       },
       {
