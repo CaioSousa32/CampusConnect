@@ -30,7 +30,8 @@ const TIME_MAP: Record<string, { start: string; end: string }> = {
   '4tadm': { start: '16:00', end: '17:00' },
   '5tadm': { start: '17:00', end: '18:00' },
   '3me': { start: '08:30', end: '11:50' },
-  '1te': { start: '12:50', end: '14:20' },
+  '1me': { start: '07:00', end: '10:00' },
+  '1te': { start: '12:50', end: '16:10' },
   '3te': { start: '14:20', end: '17:40' },
 };
 
