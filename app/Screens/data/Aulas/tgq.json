@@ -18,17 +18,17 @@
       },
       {
         "time": "4t",
-        "subject": "Introdução à Gestão da Qualidade",
+        "subject": "Introdução à Gestão da Q.",
         "teacher": "Prof. Jessyca S. F. Aires"
       },
       {
         "time": "5t",
-        "subject": "Introdução à Gestão da Qualidade",
+        "subject": "Introdução à Gestão da Q.",
         "teacher": "Prof. Jessyca S. F. Aires"
       },
       {
         "time": "6t",
-        "subject": "Introdução à Gestão da Qualidade",
+        "subject": "Introdução à Gestão da Q.",
         "teacher": "Prof. Jessyca S. F. Aires"
       }
     ],
@@ -47,6 +47,11 @@
         "time": "3t",
         "subject": "Fundamentos da Administração",
         "teacher": "Prof. Josefa R. Q. da C. Gomes"
+      },
+      {
+        "time": "4t",
+        "subject": "Ética, Cidadania e S.",
+        "teacher": "Prof. Willyans G. Coelho"
       },
       {
         "time": "4t",
@@ -438,33 +443,33 @@
     "sex": [
       {
         "time": "1m",
-        "subject": "Controle Estatístico da Q.",
-        "teacher": "Prof. Djalma A. Rangel"
+        "subject": "Normalização e Certificação da Q.",
+        "teacher": "Prof. Anderson C. de Oliveira"
       },
       {
         "time": "2m",
-        "subject": "Controle Estatístico da Q.",
-        "teacher": "Prof. Djalma A. Rangel"
+        "subject": "Normalização e Certificação da Q.",
+        "teacher": "Prof. Anderson C. de Oliveira"
       },
       {
         "time": "3m",
+        "subject": "Normalização e Certificação da Q.",
+        "teacher": "Prof. Anderson C. de Oliveira"
+      },
+            {
+        "time": "4m",
         "subject": "Controle Estatístico da Q.",
         "teacher": "Prof. Djalma A. Rangel"
       },
       {
-        "time": "4m",
-        "subject": "Normalização e Certificação da Q.",
-        "teacher": "Prof. Anderson C. de Oliveira"
-      },
-      {
         "time": "5m",
-        "subject": "Normalização e Certificação da Q.",
-        "teacher": "Prof. Anderson C. de Oliveira"
+        "subject": "Controle Estatístico da Q.",
+        "teacher": "Prof. Djalma A. Rangel"
       },
       {
         "time": "6m",
-        "subject": "Normalização e Certificação da Q.",
-        "teacher": "Prof. Anderson C. de Oliveira"
+        "subject": "Controle Estatístico da Q.",
+        "teacher": "Prof. Djalma A. Rangel"
       }
     ]
   },
@@ -533,33 +538,33 @@
     "sex": [
       {
         "time": "1t",
-        "subject": "Empreendedorismo",
-        "teacher": "Prof. Luiz H. de O. Martins"
+        "subject": "Gestão de Projetos",
+        "teacher": "Prof. Charles G. Martins"
       },
       {
         "time": "2t",
-        "subject": "Empreendedorismo",
-        "teacher": "Prof. Luiz H. de O. Martins"
+        "subject": "Gestão de Projetos",
+        "teacher": "Prof. Charles G. Martins"
       },
       {
         "time": "3t",
+        "subject": "Gestão de Projetos",
+        "teacher": "Prof. Charles G. Martins"
+      },
+      {
+        "time": "4t",
         "subject": "Empreendedorismo",
         "teacher": "Prof. Luiz H. de O. Martins"
       },
       {
-        "time": "4t",
-        "subject": "Gestão de Projetos",
-        "teacher": "Prof. Charles G. Martins"
-      },
-      {
         "time": "5t",
-        "subject": "Gestão de Projetos",
-        "teacher": "Prof. Charles G. Martins"
+        "subject": "Empreendedorismo",
+        "teacher": "Prof. Luiz H. de O. Martins"
       },
       {
         "time": "6t",
-        "subject": "Gestão de Projetos",
-        "teacher": "Prof. Charles G. Martins"
+        "subject": "Empreendedorismo",
+        "teacher": "Prof. Luiz H. de O. Martins"
       }
     ]
   }

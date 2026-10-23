@@ -30,17 +30,17 @@
     "ter": [
       {
         "time": "1m",
-        "subject": "Logística Reversa e Meio Ambiente",
+        "subject": "Logística Reversa e M. A.",
         "teacher": "Prof. Bruno Rios Monteiro"
       },
       {
         "time": "2m",
-        "subject": "Logística Reversa e Meio Ambiente",
+        "subject": "Logística Reversa e M. A.",
         "teacher": "Prof. Bruno Rios Monteiro"
       },
       {
         "time": "3m",
-        "subject": "Logística Reversa e Meio Ambiente",
+        "subject": "Logística Reversa e M. A.",
         "teacher": "Prof. Bruno Rios Monteiro"
       },
       {
@@ -74,6 +74,11 @@
         "time": "3m",
         "subject": "Informática Básica",
         "teacher": "Prof. Hebert G. Mendes"
+      },
+      {
+        "time": "5m",
+        "subject": "Ética Profissional",
+        "teacher": "Prof. Raissa P. M. Rocha"
       },
       {
         "time": "5m",
@@ -200,12 +205,12 @@
       },
       {
         "time": "4t",
-        "subject": "Gerenciamento e Economia de S. L.",
+        "subject": "Gerenciamento e Eco. de S. L.",
         "teacher": "Prof. Evemilia Sousa"
       },
       {
         "time": "5t",
-        "subject": "Gerenciamento e Economia de S. L.",
+        "subject": "Gerenciamento e Eco. de S. L.",
         "teacher": "Prof. Evemilia Sousa"
       }
     ],

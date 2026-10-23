@@ -524,42 +524,12 @@
     ],
     "qui": [
       {
-        "time": "1m",
+        "time": "1me",
         "subject": "Sistemas Distribuídos",
         "teacher": "Prof. Ranieri V. Carvalho"
       },
       {
-        "time": "2m",
-        "subject": "Sistemas Distribuídos",
-        "teacher": "Prof. Ranieri V. Carvalho"
-      },
-      {
-        "time": "3m",
-        "subject": "Sistemas Distribuídos",
-        "teacher": "Prof. Ranieri V. Carvalho"
-      },
-      {
-        "time": "4m",
-        "subject": "Sistemas Distribuídos",
-        "teacher": "Prof. Ranieri V. Carvalho"
-      },
-      {
-        "time": "1t",
-        "subject": "Desenv. para Dispositivos Móveis",
-        "teacher": "Prof. Ranieri V. Carvalho"
-      },
-      {
-        "time": "2t",
-        "subject": "Desenv. para Dispositivos Móveis",
-        "teacher": "Prof. Ranieri V. Carvalho"
-      },
-      {
-        "time": "3t",
-        "subject": "Desenv. para Dispositivos Móveis",
-        "teacher": "Prof. Ranieri V. Carvalho"
-      },
-      {
-        "time": "4t",
+        "time": "1te",
         "subject": "Desenv. para Dispositivos Móveis",
         "teacher": "Prof. Ranieri V. Carvalho"
       }
@@ -629,44 +599,14 @@
     ],
     "sex": [
       {
-        "time": "3m",
+        "time": "3me",
         "subject": "Adm. Avançada de Sis. Operacionais",
         "teacher": ""
       },
       {
-        "time": "4m",
-        "subject": "Adm. Avançada de Sis. Operacionais",
-        "teacher": ""
-      },
-      {
-        "time": "5m",
-        "subject": "Adm. Avançada de Sis. Operacionais",
-        "teacher": ""
-      },
-      {
-        "time": "6m",
-        "subject": "Adm. Avançada de Sis. Operacionais",
-        "teacher": ""
-      },
-      {
-        "time": "1t",
+        "time": "1te",
         "subject": "Empreendedorismo e Inovação",
         "teacher": "Prof. Luiz H. O. Martins"
-      },
-      {
-        "time": "2t",
-        "subject": "Empreendedorismo e Inovação",
-        "teacher": "Prof. Luiz H. O. Martins"
-      },
-      {
-        "time": "3t",
-        "subject": "Empreendedorismo e Inovação",
-        "teacher": "Prof. Luiz H. O. Martins"
-      },
-      {
-        "time": "4t",
-        "subject": "Projeto de Desenvolvimento IV",
-        "teacher": ""
       }
     ]
   },
