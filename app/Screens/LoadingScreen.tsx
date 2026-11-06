@@ -4,7 +4,7 @@ import { useRouter } from 'expo-router';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { getFirestore } from '@react-native-firebase/firestore';
 import { getAuth } from '@react-native-firebase/auth';
-import { getMessaging, requestPermission, AuthorizationStatus, getToken, onMessage, onTokenRefresh } from '@react-native-firebase/messaging';
+import { getMessaging, requestPermission, AuthorizationStatus, getToken, onMessage, onTokenRefresh, subscribeToTopic } from '@react-native-firebase/messaging';
 import notifee, { EventType, AndroidStyle } from '@notifee/react-native';
 import { requestNotificationPermission } from '@/requestNotificationPermission';
 
@@ -47,6 +47,14 @@ const LoadingScreen = () => {
         }
       } catch (error) {
         console.error('Erro ao inicializar o Firebase:', error);
+      }
+
+      // Inscreve o dispositivo no tópico do CampusConnect
+      try {
+        await subscribeToTopic(messaging, 'campusconnect');
+        console.log('Dispositivo inscrito no tópico campusconnect!');
+      } catch (error) {
+        console.error('Erro ao inscrever no tópico FCM:', error);
       }
 
       // 👉 App em segundo plano
